@@ -12,6 +12,9 @@ Guia para estudos em Matemática, Computação e Introdução Básica a Programa
   <ol>
   <li> IMPA https://www.impa.br </li>
   <li> Matemática Básica OBMEP http://matematica.obmep.org.br/ </li>
+  <li>www.wsricardo.github.io</>
+  <li> Básico sobre Python https://gaenos.wordpress.com/2014/11/15/basico-python/ </li>
+  </ol>
 </section>
 
 <section style="padding:2px, margin: 1px;">
