@@ -13,7 +13,9 @@ Guia para estudos em Matemática, Computação e Introdução Básica a Programa
   <li> IMPA https://www.impa.br </li>
   <li> Matemática Básica OBMEP http://matematica.obmep.org.br/ </li>
   <li>www.wsricardo.github.io</>
-  <li> Básico sobre Python https://gaenos.wordpress.com/2014/11/15/basico-python/ </li>
+  <li> Básico sobre Lógica de Programação e Python https://gaenos.wordpress.com/2014/11/15/basico-python/ </li>
+  <li> Python Para Zumbis (programação de computador nivel iniciante ao itermediario) https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc</li>
+  <li> UnivespTV http://univesptv.com.br/ </li>
   </ol>
 </section>
 
