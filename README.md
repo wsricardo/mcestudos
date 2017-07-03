@@ -21,6 +21,7 @@ Guia para estudos em Matemática, Computação e Introdução Básica a Programa
   <li> Data Structures & Algorithm Analysis by Clifford A. Shaffer http://people.cs.vt.edu/~shaffer/Book/ </li>
   <li> Computação e Analise de Algoritmos https://www.ime.usp.br/~pf/ </li>
   <li> Playground Python Tech.IO https://tech.io/playgrounds/500/advanced-python-features/content/advanced-python-features</li>
+  <li> Visualizar Execução de umcódigo, programa, passo à passo - http://www.pythontutor.com/ </li>
    
     
   </ol>
