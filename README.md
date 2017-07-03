@@ -30,7 +30,7 @@ Guia para estudos em Matemática, Computação e Introdução Básica a Programa
 <section style="padding:2px, margin: 1px;">
 <br>
 <b> 2. Matemática Avançada </b>
-  <p> Algebra, Calculos
+  <p> Geometria Analitica, Algebra Linear, Calculos, Combinatória, Probabilidade.
   
 </section>
   <b> 3. Introdução A Programação </b>
