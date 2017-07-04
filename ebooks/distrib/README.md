@@ -2,4 +2,4 @@
 <br>
 
 Códigos do ebook C++3elatest.pdf em http://people.cs.vt.edu/~shaffer/Book/
-professor Clifford A. Shaffer
+professor Clifford A. Shaffer.
