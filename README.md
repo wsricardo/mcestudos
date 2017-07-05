@@ -69,7 +69,27 @@ Links
 Links
 <a href="#">  </a>
 </section>
-  
+
+<section id="extra-links">
+<b>Extra Links</b>
+<br>
+##Backup Links
+http://suporteninja.com/curso-de-c-gratuito-com-certificado-criacao-de-programas-de-computador
+http://www.assemblyprogressivo.net/
+https://github.com/ltiaunesp/Git-Minicurso
+https://bitbucket.org/
+Final Release Fedora GNU/Linux https://fedoraproject.org/wiki/Releases/26/Schedule
+<br>
+##TECHIO
+What you know can inspire others <br/>
+https://tech.io/
+<br>
+Advanced Python Features </br>
+https://tech.io/playgrounds/500/advanced-python-features/content/advanced-python-features
+<br>
+
+</section>
+
   
 <br><br>
 <i>Wandeson Ricardo </i>
