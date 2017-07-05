@@ -9,16 +9,18 @@ Guia para estudos em Matemática, Computação e Introdução Básica a Programa
 <p> Requisitos básicos iniciais gerais em nivél médio (colegial/HighSchool), principalmente em Matemática e Fisica. Dependendo das áreas/projetos outros conhecimento mais avançados podem ser requeridos. Por exemplo, estudo de Inteligência Artifical e Robotica requerem basicamente conhecimentos em matemática avançada como Algebra Linear, Cálculo, Combinatoria, Probabilidade, Estatistica (tanto IA como Robotica) além de Fisica, Mecanica, Eletronica dependendo.
 <p> Para matemática é possível achar livros como da SBM (ensino médio), Fundamentos da Matemática além de links de páginas como do IMPA (Instituto de Matemática Pura e Aplicada  e OBMEP (Olimpiada Brasileira de Matemática das Escolas Públicas).
 <br>
+
   <ol>
+
   <li> IMPA https://www.impa.br </li>
   <li> Matemática Básica OBMEP http://matematica.obmep.org.br/ </li>
   <li>www.wsricardo.github.io</>
   <li> Básico sobre Lógica de Programação e Python https://gaenos.wordpress.com/2014/11/15/basico-python/ </li>
   <li> Python Para Zumbis (programação de computador nivel iniciante ao itermediario) https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc</li>
   <li> UnivespTV http://univesptv.com.br/ </li>
-  <li> Cursos Gratuitos - Gustavo Guanabara- Canal https://www.youtube.com/user/cursosemvideo</li>
-   
+  <li> Cursos Gratuitos - Gustavo Guanabara- Canal https://www.youtube.com/user/cursosemvideo</li>   
   <li> Data Structures & Algorithm Analysis by Clifford A. Shaffer http://people.cs.vt.edu/~shaffer/Book/ </li>
+	<li> Programação em C http://www2.ic.uff.br/~hcgl/tutorial.html </li>
   <li> Computação e Analise de Algoritmos https://www.ime.usp.br/~pf/ </li>
   <li> Playground Python Tech.IO https://tech.io/playgrounds/500/advanced-python-features/content/advanced-python-features</li>
   <li> Visualizar Execução de umcódigo, programa, passo à passo - http://www.pythontutor.com/ </li>
