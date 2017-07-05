@@ -74,6 +74,7 @@ Links
 <b>Extra Links</b>
 <br>
 ##Backup Links
+<br>
 http://suporteninja.com/curso-de-c-gratuito-com-certificado-criacao-de-programas-de-computador <br>
 http://www.assemblyprogressivo.net/ <br>
 https://github.com/ltiaunesp/Git-Minicurso <br>
