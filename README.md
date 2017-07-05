@@ -22,9 +22,11 @@ Guia para estudos em Matemática, Computação e Introdução Básica a Programa
   <li> Computação e Analise de Algoritmos https://www.ime.usp.br/~pf/ </li>
   <li> Playground Python Tech.IO https://tech.io/playgrounds/500/advanced-python-features/content/advanced-python-features</li>
   <li> Visualizar Execução de umcódigo, programa, passo à passo - http://www.pythontutor.com/ </li>
+  <li> What's New In Python 3 https://docs.python.org/3.0/whatsnew/3.0.html </li>
    
     
   </ol>
+
 </section>
 
 <section style="padding:2px, margin: 1px;">
