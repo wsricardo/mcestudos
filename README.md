@@ -74,10 +74,10 @@ Links
 <b>Extra Links</b>
 <br>
 ##Backup Links
-http://suporteninja.com/curso-de-c-gratuito-com-certificado-criacao-de-programas-de-computador
-http://www.assemblyprogressivo.net/
-https://github.com/ltiaunesp/Git-Minicurso
-https://bitbucket.org/
+http://suporteninja.com/curso-de-c-gratuito-com-certificado-criacao-de-programas-de-computador <br>
+http://www.assemblyprogressivo.net/ <br>
+https://github.com/ltiaunesp/Git-Minicurso <br>
+https://bitbucket.org/ <br>
 Final Release Fedora GNU/Linux https://fedoraproject.org/wiki/Releases/26/Schedule
 <br>
 ##TECHIO
