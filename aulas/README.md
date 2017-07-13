@@ -1,6 +1,6 @@
-##Arquivos De Aulas de Introdução à Programação de Computador
+## Arquivos De Aulas de Introdução à Programação de Computador
 <br>
-#Aulas
+# Aulas
 
 <br>
 <ol>
