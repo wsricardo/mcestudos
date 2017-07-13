@@ -1,17 +1,17 @@
 ## Arquivos De Aulas de Introdução à Programação de Computador
 <br>
-# Aulas
+<b> Aulas </b>
 
 <br>
 <ol>
-	<li>Aula0</li>
-	<li>Aula1</li>
+	<li><a href="aulas/aula01.md">Aula1</a></li>
 	<li>Aula2</li>
 	<li>Aula3</li>
 	<li>Aula4</li>
 	<li>Aula5</li>
 	<li>Aula6</li>
 	<li>Aula7</li>
+	<li>Aula8</li>
 
 </ol>
 
