@@ -42,7 +42,7 @@ Guia para estudos em Matemática, Computação e Introdução Básica a Programa
 
 <section>
   <b> 3. Introdução A Programação </b>
-<br>
+<br><br>
 
   <p> Programas de computador são construidos afim de facilitar e agilizar determinadas tarefaz maçantes e que demandam grande capacidades de armazanamento e processamento os mesmos são construidos sobre conceitos e definições de algoritmos e linguagens de programação em sua implementação.</p>
 
