@@ -4,7 +4,7 @@
 
 <br>
 <ol>
-	<li><a href="aulas/aula01.md">Aula1</a></li>
+	<li><a href="aula1/aula01.md">Aula1</a></li>
 	<li>Aula2</li>
 	<li>Aula3</li>
 	<li>Aula4</li>
