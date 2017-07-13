@@ -39,9 +39,11 @@ Guia para estudos em Matemática, Computação e Introdução Básica a Programa
   <p> Geometria Analitica, Algebra Linear, Calculos, Combinatória, Probabilidade.
   
 </section>
+
+<section>
   <b> 3. Introdução A Programação </b>
 <br>
-<section>
+
   <p> Programas de computador são construidos afim de facilitar e agilizar determinadas tarefaz maçantes e que demandam grande capacidades de armazanamento e processamento os mesmos são construidos sobre conceitos e definições de algoritmos e linguagens de programação em sua implementação.</p>
 
 <p>Um algoritmo é uma sequência de instruções não ambiguas bem definidas para resolução dum problema. De posse desta definição determinamos um algoritmo que servirá em tarefas executadas dentro do escopo de um programa conforme metodo de desenvolvimento usado na construção do software(programa).</p>
