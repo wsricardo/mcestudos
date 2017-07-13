@@ -93,7 +93,7 @@ http://suporteninja.com/curso-de-c-gratuito-com-certificado-criacao-de-programas
 http://www.assemblyprogressivo.net/ <br>
 https://github.com/ltiaunesp/Git-Minicurso <br>
 https://bitbucket.org/ <br>
-Fedora GNU/Linux https://fedoraproject.org/
+Fedora GNU/Linux https://fedoraproject.org/ <br>
 Editor Vi/Vim https://pt.wikibooks.org/wiki/Vim/Dividindo_a_janela e http://angelitomg.com/blog/dividindo-a-tela-no-vim/ <br>
 
 <br>
