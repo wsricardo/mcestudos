@@ -49,7 +49,7 @@ Guia para estudos em Matemática, Computação e Introdução Básica a Programa
 <br>
 <a href="aulas/README.md">Aulas</a>
 </section>
-
+<br><br>
 <section>
 <b> 4. Computação e Sistemas </b>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque a dui eu urna congue condimentum nec laoreet tortor. Suspendisse facilisis scelerisque dui eget elementum. Mauris luctus orci accumsan elit condimentum, a scelerisque tortor tincidunt. Maecenas eget turpis sed nisi ultricies lacinia eget vel tellus. Aliquam euismod in lectus eget dapibus. Proin facilisis vestibulum rhoncus. Nam quis mauris eget neque commodo elementum et ut odio. Aliquam dignissim ex eu urna ornare facilisis.
