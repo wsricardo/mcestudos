@@ -123,7 +123,9 @@ https://tech.io/playgrounds/500/advanced-python-features/content/advanced-python
 </section>
 
   
-<br><br>
+<br>
+<hr>
+<br>
 <i>Wandeson Ricardo </i>
 <br>
 <a href="http://www.gaenos.blogspot.com">GAENOS http://www.gaenos.blogspot.com</a>
