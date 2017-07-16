@@ -90,7 +90,7 @@ Links
 ##Backup Links Extras
 <br><br>
 
-<b><i>Computação</i></b><br>
+<b><i>Computação</i></b><br><br>
 http://suporteninja.com/curso-de-c-gratuito-com-certificado-criacao-de-programas-de-computador <br>
 http://www.assemblyprogressivo.net/ <br>
 https://github.com/ltiaunesp/Git-Minicurso <br>
