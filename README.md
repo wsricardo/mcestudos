@@ -102,8 +102,6 @@ Editor Vi/Vim https://pt.wikibooks.org/wiki/Vim/Dividindo_a_janela e http://ange
 <br><br>
 	<ol> <i>SBM<i><br>
 		<li> <a href="https://www.sbm.org.br/publicacoes/publicacoes-para-download/colecao-simposios-de-matematica">Coleção Simpósios de Matemática</a></li>
-<b><i>Ciencias & Linguas</i></b>
-<br>
 		<li><a href="https://www.sbm.org.br/publicacoes/publicacoes-para-download/colecao-coloquios-da-matematica">Coleção Colóquios de Matemática</a></li>
 	</ol>
 <br><br>
