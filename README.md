@@ -88,14 +88,16 @@ Links
 <b>Extra Links</b>
 <br>
 ##Backup Links Extras
-<br>
-<b><i>Computação</i></b>
+<br><br>
+
+<b><i>Computação</i></b><br>
 http://suporteninja.com/curso-de-c-gratuito-com-certificado-criacao-de-programas-de-computador <br>
 http://www.assemblyprogressivo.net/ <br>
 https://github.com/ltiaunesp/Git-Minicurso <br>
 https://bitbucket.org/ <br>
 Fedora GNU/Linux https://fedoraproject.org/ <br>
-Editor Vi/Vim https://pt.wikibooks.org/wiki/Vim/Dividindo_a_janela e http://angelitomg.com/blog/dividindo-a-tela-no-vim/ <br>
+Editor Vi/Vim https://pt.wikibooks.org/wiki/Vim/Dividindo_a_janela e http://angelitomg.com/blog/dividindo-a-tela-no-vim/ <br><br>
+
 <b><i>Matemática</i></b>
 <br><br>
 	<ol> <i>SBM<i><br>
@@ -104,10 +106,11 @@ Editor Vi/Vim https://pt.wikibooks.org/wiki/Vim/Dividindo_a_janela e http://ange
 <br>
 		<li><a href="https://www.sbm.org.br/publicacoes/publicacoes-para-download/colecao-coloquios-da-matematica">Coleção Colóquios de Matemática</a></li>
 	</ol>
-<br>
+<br><br>
+<b><i>Ciências e Linguas</i></b><br><br>
 
 
-<br>
+<br><br>
 ##TECHIO
 What you know can inspire others <br/>
 https://tech.io/
