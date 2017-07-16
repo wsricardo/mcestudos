@@ -109,6 +109,9 @@ Editor Vi/Vim https://pt.wikibooks.org/wiki/Vim/Dividindo_a_janela e http://ange
 
 
 <br><br>
+<hr>
+<br><br>
+
 ##TECHIO
 What you know can inspire others <br/>
 https://tech.io/
