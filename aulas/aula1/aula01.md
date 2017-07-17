@@ -42,13 +42,15 @@ da combinação dos mesmo como NAND e XOR).
 	
 </table>
 <br>
+<br>
 <code>
-x 	y		x E y		x OU y		NOT y		x NAND y		x XOR y
+x 	y		x E y		x OU y		NOT y		x NAND y		x XOR y <br>
 
-1	1		1			1			0
-1	0		0			1			1
-0 	1		0			1			-
-0 	0		0			0			-
+1	1		1			1			0			0				0		<br>
+1	0		0			1			1			1				1		<br>
+0 	1		0			1			-			1				1		<br>
+0 	0		0			0			-			1				0		<br>
+<br>
 </code>
 
 
