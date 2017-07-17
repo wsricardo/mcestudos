@@ -122,13 +122,15 @@ https://tech.io/playgrounds/500/advanced-python-features/content/advanced-python
 
 </section>
 <br>
-
-
+<hr>
+<br>
+<section id=wire_chat>
+Redes & Chats com Python <br>
 Pesquisando sobre P2P, IRCs, Webchat. <br>
 Como construi-los com python puro(preferencialmente) ou com libs. <br>
 Que tiver mais sugestões e dicas de segurança só comentar. <br>
 
-1. https://github.com/siddharthasahu/P2P-chat-application/blob/master/chatApp.py 
+1. https://github.com/siddharthasahu/P2P-chat-application/blob/master/chatApp.py
 <br>
 2. https://github.com/vijayant123/Python-P2P-Chat/blob/master/chat.py
 <br>
@@ -137,7 +139,7 @@ Que tiver mais sugestões e dicas de segurança só comentar. <br>
 4. https://pypi.python.org/pypi/irc
 <br>
 5. https://linuxacademy.com/blog/geek/creating-an-irc-bot-with-python3/
-  
+</section>  
 <br>
 <hr>
 <br>
