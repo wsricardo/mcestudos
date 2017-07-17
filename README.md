@@ -116,24 +116,24 @@ Editor Vi/Vim https://pt.wikibooks.org/wiki/Vim/Dividindo_a_janela e http://ange
 What you know can inspire others <br/>
 https://tech.io/
 <br>
-Advanced Python Features </br>
+Advanced Python Features <br>
 https://tech.io/playgrounds/500/advanced-python-features/content/advanced-python-features
 <br>
 
 </section>
-</br>
+<br>
 Pesquisando sobre P2P, IRCs, Webchat. </br>
 Como construi-los com python puro(preferencialmente) ou com libs. </br>
 Que tiver mais sugestões e dicas de segurança só comentar. </br>
 
 1. https://github.com/siddharthasahu/P2P-chat-application/blob/master/chatApp.py 
-</br>
+<br>
 2. https://github.com/vijayant123/Python-P2P-Chat/blob/master/chat.py
-</br>
+<br>
 3. https://github.com/chprice/Python-Chat-Program 
-</br>
+<br>
 4. https://pypi.python.org/pypi/irc
-</br>
+<br>
 5. https://linuxacademy.com/blog/geek/creating-an-irc-bot-with-python3/
   
 <br>
