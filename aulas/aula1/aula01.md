@@ -26,7 +26,7 @@ através de 'funções' (será visto mais a frente)
 
 
 Operações Lógicas & Tabela Verdade
------------------------------------
+------------------------------------
 
 Os operadores lógico básicos são E, OU, NÃO (outros surgem
 da combinação dos mesmo como NAND e XOR)
@@ -34,7 +34,7 @@ da combinação dos mesmo como NAND e XOR)
 
 
 IO - Entrada e Saida de Dados (E/S)
------------------------------------
+------------------------------------
 
 De inicio abordaremos a entrada de dados via terminal (console, prompt), ou
 seja, modo texto. Em cada linguagem a uma 'palavra reservada especifica' (função)

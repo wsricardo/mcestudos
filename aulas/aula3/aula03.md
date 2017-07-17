@@ -2,7 +2,7 @@
 
 
 Estruturas Condicionais
-------------------------
+-------------------------
 
 
 
@@ -14,4 +14,4 @@ Estruturas Condicionais
 
 
 Estruturas de Repetição - Loops
---------------------------------
+---------------------------------
