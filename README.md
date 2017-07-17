@@ -87,7 +87,7 @@ Links
 <section id="extra-links">
 <b><h3>Extra Links</h3></b>
 <br>
-##Backup Links Extras
+## Backup Links Extras
 <br><br>
 
 <b><i>Computação</i></b><br><br>
@@ -113,7 +113,7 @@ Editor Vi/Vim https://pt.wikibooks.org/wiki/Vim/Dividindo_a_janela e http://ange
 <hr>
 <br><br>
 
-##TECHIO
+## TECHIO
 What you know can inspire others <br/>
 https://tech.io/
 <br>
