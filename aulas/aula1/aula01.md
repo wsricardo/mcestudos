@@ -30,17 +30,8 @@ Operações Lógicas & Tabela Verdade
 
 Os operadores lógico básicos são E, OU, NÃO (outros surgem
 da combinação dos mesmo como NAND e XOR).
-<style type="text/css">
-table, th, td {
-	margin: 10px;
-	padding: 5px;
-	border: 2px solid black;
-	border-collapse: collapse;
-	background-color: #fff2cf;
-}
 
-</style>
-<table>
+<table style="margin: 10px; border: 2px;">
 <tr><th>x</th><th>y</th><th>x E y</th><th>x OU y</th><th>NOT y</th> <th>x NAND y</th> <th>x XOR y</th></tr>
 
 	<tr> <td>1</td> <td>1</td> <td>1</td> <td>1</td> <td>0</td> <td>0</td> <td>0</td> </tr>
@@ -58,8 +49,6 @@ x	y		x E y		x OU y		NOT y
 0	1		0			1			-
 0	0		0			0			-
 
-
-</table>
 
 
 IO - Entrada e Saida de Dados (E/S)
