@@ -123,8 +123,8 @@ https://tech.io/playgrounds/500/advanced-python-features/content/advanced-python
 </section>
 <br>
 Pesquisando sobre P2P, IRCs, Webchat. </br>
-Como construi-los com python puro(preferencialmente) ou com libs. </br>
-Que tiver mais sugestões e dicas de segurança só comentar. </br>
+Como construi-los com python puro(preferencialmente) ou com libs. <br>
+Que tiver mais sugestões e dicas de segurança só comentar. <br>
 
 1. https://github.com/siddharthasahu/P2P-chat-application/blob/master/chatApp.py 
 <br>
