@@ -131,13 +131,9 @@ Como construi-los com python puro(preferencialmente) ou com libs. <br>
 Que tiver mais sugestões e dicas de segurança só comentar. <br>
 
 1. https://github.com/siddharthasahu/P2P-chat-application/blob/master/chatApp.py
-<br>
 2. https://github.com/vijayant123/Python-P2P-Chat/blob/master/chat.py
-<br>
 3. https://github.com/chprice/Python-Chat-Program 
-<br>
 4. https://pypi.python.org/pypi/irc
-<br>
 5. https://linuxacademy.com/blog/geek/creating-an-irc-bot-with-python3/
 </section>  
 <br>
