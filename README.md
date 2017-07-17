@@ -97,7 +97,20 @@ https://github.com/ltiaunesp/Git-Minicurso <br>
 https://bitbucket.org/ <br>
 https://daringfireball.net/projects/markdown/syntax<br>
 Fedora GNU/Linux https://fedoraproject.org/ <br>
-Editor Vi/Vim https://pt.wikibooks.org/wiki/Vim/Dividindo_a_janela e http://angelitomg.com/blog/dividindo-a-tela-no-vim/ <br><br>
+Editor Vi/Vim https://pt.wikibooks.org/wiki/Vim/Dividindo_a_janela e http://angelitomg.com/blog/dividindo-a-tela-no-vim/
+Markdown/Texts Editor
+	<ol>
+		<li>https://stackedit.io</li>
+		<li>http://dillinger.io/</li>
+		<li>https://jbt.github.io/markdown-editor/</li>
+		<li>https://remarkableapp.github.io/</li>
+		<li>https://github.com/retext-project/retext</li>
+		<li>https://atom.io/</li>
+
+	<ol>
+
+
+ <br><br>
 
 <b><i>Matemática</i></b>
 <br><br>
