@@ -131,6 +131,10 @@ Que tiver mais sugestões e dicas de segurança só comentar. </br>
 2. https://github.com/vijayant123/Python-P2P-Chat/blob/master/chat.py
 </br>
 3. https://github.com/chprice/Python-Chat-Program 
+</br>
+4. https://pypi.python.org/pypi/irc
+</br>
+5. https://linuxacademy.com/blog/geek/creating-an-irc-bot-with-python3/
   
 <br>
 <hr>
