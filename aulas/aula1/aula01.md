@@ -33,12 +33,12 @@ da combinação dos mesmo como NAND e XOR).
 
 <table style="margin: 10px; border: 2px;">
 <tr><th>x</th><th>y</th><th>x E y</th><th>x OU y</th><th>NOT y</th> <th>x NAND y</th> <th>x XOR y</th></tr>
-
+<tbody>
 	<tr> <td>1</td> <td>1</td> <td>1</td> <td>1</td> <td>0</td> <td>0</td> <td>0</td> </tr>
 	<tr> <td>1</td> <td>0</td> <td>0</td> <td>1</td> <td>1</td> <td>1</td> <td>1</td> </tr>
 	<tr> <td>0</td> <td>1</td> <td>0</td> <td>1</td> <td>-</td> <td>1</td> <td>1</td> </tr>
 	<tr> <td>0</td> <td>0</td> <td>0</td> <td>0</td> <td>-</td> <td>1</td> <td>0</td> </tr>
-	
+<tbody>
 	
 </table>
 <br>
