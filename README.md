@@ -98,6 +98,7 @@ https://bitbucket.org/ <br>
 https://daringfireball.net/projects/markdown/syntax<br>
 Fedora GNU/Linux https://fedoraproject.org/ <br>
 Editor Vi/Vim https://pt.wikibooks.org/wiki/Vim/Dividindo_a_janela e http://angelitomg.com/blog/dividindo-a-tela-no-vim/
+<br>
 Markdown/Texts Editor
 	<ol>
 		<li>https://stackedit.io</li>

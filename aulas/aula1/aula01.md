@@ -31,6 +31,13 @@ Operações Lógicas & Tabela Verdade
 Os operadores lógico básicos são E, OU, NÃO (outros surgem
 da combinação dos mesmo como NAND e XOR).
 
+x	y		x E y		x OU y		NOT y
+	
+1	1		1			1			0
+1	0		0			1			1
+0	1		0			1			-
+0	0		0			0			-
+
 
 
 IO - Entrada e Saida de Dados (E/S)
