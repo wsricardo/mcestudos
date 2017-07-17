@@ -53,6 +53,20 @@ x---y------x E y-----x OU y------x NOT y------x NAND y-------x XOR y<br>
 0---0--------0----------0------------------------1--------------0	<br>
 <br>
 
+(Portas XOR, NAND, NOR em https://pt.wikipedia.org/wiki/Porta_XOR e https://pt.wikipedia.org/wiki/Tabela_verdade 
+para mais detalhes.)
+
+Essas tabelas e conectivos (operadores) lógicos serão usados <br>
+no momento da construção de condições a serem testadas <br>
+como verdadeiras ou falsas quando a condição <br>
+é satisfeita (no caso 'verdadeiro') ou não <br>
+é satisfeita (no caso falso). <br>
+<br>
+Exemplo: Trocar uma lâmpada.
+<br>
+Condição: <b>Se</b> a lampada esta queimada <b> ou </b> venceu seu prazo de validade <br>
+Resultado: <i>'Eu troco a lampada.'</i> <br>
+Note o uso do <i>se</i> e do <i>ou</i> (o OU como na tabela acima, <span style="text-decoration: underline;">x OU y</span>
 
 
 IO - Entrada e Saida de Dados (E/S)
