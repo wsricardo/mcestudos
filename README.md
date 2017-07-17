@@ -125,7 +125,7 @@ https://tech.io/playgrounds/500/advanced-python-features/content/advanced-python
 <hr>
 <br>
 <section id=wire_chat>
-Redes & Chats com Python <br>
+<b>Redes & Chats com Python</b><br>
 Pesquisando sobre P2P, IRCs, Webchat. <br>
 Como construi-los com python puro(preferencialmente) ou com libs. <br>
 Que tiver mais sugestões e dicas de segurança só comentar. <br>
