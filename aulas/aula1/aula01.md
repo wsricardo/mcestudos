@@ -66,7 +66,7 @@ Exemplo: Trocar uma lâmpada.
 <br>
 Condição: <b>Se</b> a lampada esta queimada <b> ou </b> venceu seu prazo de validade <br>
 Resultado: <i>'Eu troco a lampada.'</i> <br>
-Note o uso do <i>se</i> e do <i>ou</i> (o OU como na tabela acima, <span style="text-decoration: underline;">x OU y</span>
+Note o uso do <i>se</i> e do <i>ou</i> (o OU como na tabela acima, <b>x OU y</b>)
 
 
 IO - Entrada e Saida de Dados (E/S)
