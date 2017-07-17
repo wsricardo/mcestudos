@@ -29,7 +29,7 @@ Operações Lógicas & Tabela Verdade
 ------------------------------------
 
 Os operadores lógico básicos são E, OU, NÃO (outros surgem
-da combinação dos mesmo como NAND e XOR)
+da combinação dos mesmo como NAND e XOR).
 
 
 
