@@ -23,11 +23,15 @@ potência, e outros desde que suportados pela linguagem ou definidos na mesma
 através de 'funções' (será visto mais a frente)
 
 
+
+
 Operações Lógicas & Tabela Verdade
 -----------------------------------
 
 Os operadores lógico básicos são E, OU, NÃO (outros surgem
 da combinação dos mesmo como NAND e XOR)
+
+
 
 IO - Entrada e Saida de Dados (E/S)
 -----------------------------------
