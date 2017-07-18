@@ -43,15 +43,6 @@ da combinação dos mesmo como NAND e XOR).
 </table>
 <br>
 <br>
-(ASCII pure table/ tabela modo texto)
-<br>
-x---y------x E y-----x OU y------x NOT y------x NAND y-------x XOR y<br>
-
-1---1--------1----------1-----------0------------0--------------0	<br>
-1---0--------0----------1-----------1------------1--------------1	<br>
-0---1--------0----------1------------------------1--------------1	<br>
-0---0--------0----------0------------------------1--------------0	<br>
-<br>
 
 (Portas XOR, NAND, NOR em https://pt.wikipedia.org/wiki/Porta_XOR e https://pt.wikipedia.org/wiki/Tabela_verdade 
 para mais detalhes.)
