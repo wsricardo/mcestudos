@@ -41,8 +41,7 @@ da combinação dos mesmo como NAND e XOR).
 <tbody>
 	
 </table>
-<br>
-<br>
+<br><br>
 
 (Portas XOR, NAND, NOR em https://pt.wikipedia.org/wiki/Porta_XOR e https://pt.wikipedia.org/wiki/Tabela_verdade 
 para mais detalhes.)
