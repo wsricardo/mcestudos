@@ -103,6 +103,7 @@ Links
 </ul>
 <br><br>
 Markdown/Texts Editor
+<br>
 	<ol>
 		<li>https://stackedit.io</li>
 		<li>http://dillinger.io/</li>
@@ -112,7 +113,6 @@ Markdown/Texts Editor
 		<li>https://atom.io/</li>
 
 	</ol>
-
 
  <br><br>
 
