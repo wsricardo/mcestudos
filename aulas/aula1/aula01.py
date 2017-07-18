@@ -14,3 +14,7 @@ Name = "Aragorn" # Nome do personagem
 # HP é uma variavel inteira.
 # S é uma variavel em 'ponto flutuante' (numero do conjunto Real)
 # Name é uma variavel tipo string (sequência de caracteres).
+
+# Exibindo conteudo das variaveis com a 'função' PRINT
+print("Personagem do Game")
+print(HP, S, Name)
