@@ -91,14 +91,17 @@ Links
 <br><br>
 
 <b><i>Computação</i></b><br><br>
-http://suporteninja.com/curso-de-c-gratuito-com-certificado-criacao-de-programas-de-computador <br>
-http://www.assemblyprogressivo.net/ <br>
-https://github.com/ltiaunesp/Git-Minicurso <br>
-https://bitbucket.org/ <br>
-https://daringfireball.net/projects/markdown/syntax<br>
-Fedora GNU/Linux https://fedoraproject.org/ <br>
-Editor Vi/Vim https://pt.wikibooks.org/wiki/Vim/Dividindo_a_janela e http://angelitomg.com/blog/dividindo-a-tela-no-vim/
-<br>
+<ul>
+<li>http://suporteninja.com/curso-de-c-gratuito-com-certificado-criacao-de-programas-de-computador</li>
+<li>Curso Assembly http://www.assemblyprogressivo.net/ </li>
+<li> Mini Curso sobre Git https://github.com/ltiaunesp/Git-Minicurso </li>
+<li>https://bitbucket.org/ </li>
+<li>https://daringfireball.net/projects/markdown/syntax</li>
+<li>Fedora GNU/Linux https://fedoraproject.org/</li> 
+<li>Editor Vi/Vim https://pt.wikibooks.org/wiki/Vim/Dividindo_a_janela e http://angelitomg.com/blog/dividindo-a-tela-no-vim/</li>
+<li>Nginx nginx [engine x] is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server https://nginx.org/en/ </li>
+</ul>
+<br><br>
 Markdown/Texts Editor
 	<ol>
 		<li>https://stackedit.io</li>
