@@ -31,7 +31,7 @@ Operações Lógicas & Tabela Verdade
 Os operadores lógico básicos são E, OU, NÃO (outros surgem
 da combinação dos mesmo como NAND e XOR).
 
-<table style="margin: 10px; border: 2px;">
+<table style="margin: 15px; padding: 5px;border: 2px; background-color: beige;">
 <tr><th>x</th><th>y</th><th>x E y</th><th>x OU y</th><th>NOT y</th> <th>x NAND y</th> <th>x XOR y</th></tr>
 <tbody>
 	<tr> <td>1</td> <td>1</td> <td>1</td> <td>1</td> <td>0</td> <td>0</td> <td>0</td> </tr>
