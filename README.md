@@ -92,10 +92,10 @@ Links
 
 <b><i>Computação</i></b><br><br>
 <ul>
-<li>http://suporteninja.com/curso-de-c-gratuito-com-certificado-criacao-de-programas-de-computador</li>
+<li>Curso de linguagem C http://suporteninja.com/curso-de-c-gratuito-com-certificado-criacao-de-programas-de-computador</li>
 <li>Curso Assembly http://www.assemblyprogressivo.net/ </li>
 <li> Mini Curso sobre Git https://github.com/ltiaunesp/Git-Minicurso </li>
-<li>https://bitbucket.org/ </li>
+<li>Plataforma para repositório de projetos https://bitbucket.org/ </li>
 <li>https://daringfireball.net/projects/markdown/syntax</li>
 <li>Fedora GNU/Linux https://fedoraproject.org/</li> 
 <li>Editor Vi/Vim https://pt.wikibooks.org/wiki/Vim/Dividindo_a_janela e http://angelitomg.com/blog/dividindo-a-tela-no-vim/</li>
