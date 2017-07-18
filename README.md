@@ -111,7 +111,7 @@ Markdown/Texts Editor
 		<li>https://github.com/retext-project/retext</li>
 		<li>https://atom.io/</li>
 
-	<ol>
+	</ol>
 
 
  <br><br>
