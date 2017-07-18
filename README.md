@@ -118,7 +118,8 @@ Markdown/Texts Editor
 
 <b><i>Matemática</i></b>
 <br><br>
-	<ol> <i>SBM<i><br>
+	<i>SBM<i><br>
+	<ol> 
 		<li> <a href="https://www.sbm.org.br/publicacoes/publicacoes-para-download/colecao-simposios-de-matematica">Coleção Simpósios de Matemática</a></li>
 		<li><a href="https://www.sbm.org.br/publicacoes/publicacoes-para-download/colecao-coloquios-da-matematica">Coleção Colóquios de Matemática</a></li>
 	</ol>
