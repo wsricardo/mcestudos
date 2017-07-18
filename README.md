@@ -104,15 +104,14 @@ Links
 <br><br>
 Markdown/Texts Editor
 <br>
-	<ol>
+	<ul>
 		<li>https://stackedit.io</li>
 		<li>http://dillinger.io/</li>
 		<li>https://jbt.github.io/markdown-editor/</li>
 		<li>https://remarkableapp.github.io/</li>
 		<li>https://github.com/retext-project/retext</li>
 		<li>https://atom.io/</li>
-
-	</ol>
+	</ul>
 
  <br><br>
 

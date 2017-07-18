@@ -68,3 +68,8 @@ responsável tanto pela entrada de dados, lendo o que é digitado pelo usuários
 como para a saida de dados, exibindo no terminal o que fôra especificado
 pelo programador como mensagem a ser exibida.
 
+
+<br><br>
+<i>Veja codigo aula01.py </i>
+<br>
+Prossiga para Aula 02 ...
