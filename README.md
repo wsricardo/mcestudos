@@ -124,6 +124,8 @@ Markdown/Texts Editor
 	<ol> 
 		<li> <a href="https://www.sbm.org.br/publicacoes/publicacoes-para-download/colecao-simposios-de-matematica">Coleção Simpósios de Matemática</a></li>
 		<li><a href="https://www.sbm.org.br/publicacoes/publicacoes-para-download/colecao-coloquios-da-matematica">Coleção Colóquios de Matemática</a></li>
+		<li>Ebook Free Matemática e Computação Free Ebooks (copy left) http://wanartsci.blogspot.com.br/2011/08/ebook-online-free-math-and-computing.html</li>
+		<li> Gatech Ebooks (mathematics) http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html e http://people.math.gatech.edu/~cain/ </li>
 	</ol>
 <br><br>
 <b><i>Ciências e Linguas</i></b><br><br>
@@ -165,7 +167,10 @@ Que tiver mais sugestões e dicas de segurança só comentar. <br>
 ## LINKS Various
 <ul>
 	<li>Telegram - Serviço de mensagem/chats www.telegram.org e https://core.telegram.org/bots</li>
-
+	<li>Linguagem de Programação Lua lua.org - Referência https://www.lua.org/manual/5.2/pt/</li>
+	<li> Computer Graphics - GPU http://wanartsci.blogspot.com.br/2011/12/computer-graphics-gpu.html e https://youtu.be/HAm5ziXE6pA </li>
+	<li>OpenGL For Beginner http://wanartsci.blogspot.com.br/2015/09/opengl-for-begginners-and-wiki-help.html </li>
+	<li>Nvidia GPU GEMS http://developer.nvidia.com/content/gpu-gems-part-i-natural-effects </li>
 </ul>
 <hr>
 <br>
