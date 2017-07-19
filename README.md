@@ -101,6 +101,8 @@ Links
 <li>Editor Vi/Vim https://pt.wikibooks.org/wiki/Vim/Dividindo_a_janela e http://angelitomg.com/blog/dividindo-a-tela-no-vim/</li>
 <li>Nginx nginx [engine x] is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server https://nginx.org/en/ </li>
 <li>Converter Markdown com formulas matemáticas em HTML http://pandoc.org/ </li>
+<li>Textos Cientificos com Latex (online) - https://www.overleaf.com/ e https://www.sharelatex.com/ </li>
+<li>Latex em HTML com Mathjax https://www.mathjax.org </li>
 </ul>
 <br><br>
 Markdown/Texts Editor
