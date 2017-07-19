@@ -157,9 +157,11 @@ Que tiver mais sugestões e dicas de segurança só comentar. <br>
 4. https://pypi.python.org/pypi/irc
 5. https://linuxacademy.com/blog/geek/creating-an-irc-bot-with-python3/
 </section>  
-<br>
+
+<br><br>
 <hr>
-<br>
+<br><br>
+
 ## LINKS Various
 <ul>
 	<li>Telegram - Serviço de mensagem/chats www.telegram.org e https://core.telegram.org/bots</li>
