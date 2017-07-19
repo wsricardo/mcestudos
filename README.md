@@ -160,6 +160,13 @@ Que tiver mais sugestões e dicas de segurança só comentar. <br>
 <br>
 <hr>
 <br>
+## LINKS Various
+<ul>
+	<li>Telegram - Serviço de mensagem/chats www.telegram.org e https://core.telegram.org/bots</li>
+
+</ul>
+<hr>
+<br>
 <i>Wandeson Ricardo </i>
 <br>
 <a href="http://www.gaenos.blogspot.com">GAENOS http://www.gaenos.blogspot.com</a>
