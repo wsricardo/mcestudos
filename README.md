@@ -176,4 +176,7 @@ Que tiver mais sugestões e dicas de segurança só comentar. <br>
 <br>
 <i>Wandeson Ricardo </i>
 <br>
+Apoiando a manutenção do projeto.
+<br>
+<a href="https://www.apoia.se/gaenos">https://www.apoia.se/gaenos</a>
 <a href="http://www.gaenos.blogspot.com">GAENOS http://www.gaenos.blogspot.com</a>
