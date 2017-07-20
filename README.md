@@ -19,7 +19,8 @@ Guia para estudos em Matemática, Computação e Introdução Básica a Programa
   <li> Python Para Zumbis (programação de computador nivel iniciante ao itermediario) https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc</li>
   <li> UnivespTV http://univesptv.com.br/ </li>
   <li> Cursos Gratuitos - Gustavo Guanabara- Canal https://www.youtube.com/user/cursosemvideo</li>   
-  <li> Data Structures & Algorithm Analysis by Clifford A. Shaffer http://people.cs.vt.edu/~shaffer/Book/ </li>
+<li> Khan Academy - Estudos Online - https://pt.khanacademy.org/computing/computer-programming </li>  
+<li> Data Structures & Algorithm Analysis by Clifford A. Shaffer http://people.cs.vt.edu/~shaffer/Book/ </li>
 	<li> Programação em C http://www2.ic.uff.br/~hcgl/tutorial.html </li>
   <li> Computação e Analise de Algoritmos https://www.ime.usp.br/~pf/ </li>
   <li> Playground Python Tech.IO https://tech.io/playgrounds/500/advanced-python-features/content/advanced-python-features</li>
