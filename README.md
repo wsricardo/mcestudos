@@ -62,7 +62,7 @@ O advento da computação veio com uso em finalidades militares, apesar de outro
 <br><br>
 Sistemas Operacionais - Univesp
 <br>
-<a href="https://www.youtube.com/watch?v=CCHZ_06DoEA&list=PLxI8Can9yAHeK7GUEGxMsqoPRmJKwI9Jw"><img  alt="Engenharia da Computação- Sistemas Operacionais"  src="https://img.youtube.com/vi/Rl6HhDvW984/hqdefault.jpg" width="480" height="360" border="10"></a>
+<a href="https://youtu.be/Rl6HhDvW984?list=PLxI8Can9yAHeK7GUEGxMsqoPRmJKwI9Jw"><img  alt="Engenharia da Computação- Sistemas Operacionais"  src="https://img.youtube.com/vi/Rl6HhDvW984/hqdefault.jpg" width="480" height="360" border="10"></a>
 </section>
 <br><br><br>
 
