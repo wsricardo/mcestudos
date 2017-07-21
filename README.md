@@ -55,10 +55,10 @@ Guia para estudos em Matemática, Computação e Introdução Básica a Programa
 <br><br>
 <section>
 <b> 4. Computação e Sistemas </b>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque a dui eu urna congue condimentum nec laoreet tortor. Suspendisse facilisis scelerisque dui eget elementum. Mauris luctus orci accumsan elit condimentum, a scelerisque tortor tincidunt. Maecenas eget turpis sed nisi ultricies lacinia eget vel tellus. Aliquam euismod in lectus eget dapibus. Proin facilisis vestibulum rhoncus. Nam quis mauris eget neque commodo elementum et ut odio. Aliquam dignissim ex eu urna ornare facilisis.
 <br>
-<p>Nunc luctus, urna id rhoncus tincidunt, lacus lorem dapibus nisl, a porttitor dui urna ac elit. Cras cursus pulvinar faucibus. Pellentesque vitae ligula ut lorem laoreet porttitor sit amet non lectus. Curabitur commodo eleifend ligula nec scelerisque. Nulla urna erat, finibus sit amet elementum ac, aliquam sed nunc. Fusce consequat tellus ligula, non sodales est mattis vel. Nunc turpis magna, dapibus in felis semper, sodales dictum eros. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi sit amet turpis magna. Sed faucibus venenatis dui et placerat. Donec fringilla ante quis hendrerit lacinia. Nulla semper fringilla purus ac condimentum. Duis laoreet vestibulum eros. Suspendisse pulvinar ornare dolor at convallis. Nam dapibus pharetra egestas. Sed sollicitudin venenatis viverra. 
-<p>
+<br>
+O advento da computação veio com uso em finalidades militares, apesar de outros trabalhos virem sendo feitos como de Ada Lovelace e Charles Babbage no século 19.
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLxI8Can9yAHeK7GUEGxMsqoPRmJKwI9Jw" frameborder="0" allowfullscreen></iframe>
 </section>
 
 
