@@ -59,9 +59,9 @@ Guia para estudos em Matemática, Computação e Introdução Básica a Programa
 <br>
 <p>
 O advento da computação veio com uso em finalidades militares, apesar de outros trabalhos virem sendo feitos como de Ada Lovelace e Charles Babbage no século 19. Além dos grandes feitos do matemático Alan Turing.</p>
-[![IMAGE ALT Engenharia da Computação- Sistemas Operacionais](https://img.youtube.com/vi/Rl6HhDvW984/hqdefault.jpg)](https://youtu.be/CCHZ_06DoEA?list=PLxI8Can9yAHeK7GUEGxMsqoPRmJKwI9Jw)
+[![IMAGE ALT Engenharia da Computação- Sistemas Operacionais](https://img.youtube.com/vi/Rl6HhDvW984/hqdefault.jpg)](https://www.youtube.com/watch?v=CCHZ_06DoEA&list=PLxI8Can9yAHeK7GUEGxMsqoPRmJKwI9Jw)
 </section>
-
+<br><br><br>
 
 <section>
 <b> 5. Tecnologias & Educação </b>
