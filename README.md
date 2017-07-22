@@ -108,6 +108,7 @@ Links
 <li>Converter Markdown com formulas matemáticas em HTML http://pandoc.org/ </li>
 <li>Textos Cientificos com Latex (online) - https://www.overleaf.com/ e https://www.sharelatex.com/ </li>
 <li>Latex em HTML com Mathjax https://www.mathjax.org Github https://github.com/mathjax/MathJax </li>
+<li> Qt Creator IDE - Desenvolvimenti GUI Qt C/C++ https://www.qt.io/ide/ </li>
 </ul>
 <br><br>
 Markdown/Texts Editor
