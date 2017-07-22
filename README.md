@@ -21,13 +21,14 @@ Guia para estudos em Matemática, Computação e Introdução Básica a Programa
   <li> Cursos Gratuitos - Gustavo Guanabara- Canal https://www.youtube.com/user/cursosemvideo</li>   
 <li> Khan Academy - Estudos Online - https://pt.khanacademy.org/computing/computer-programming </li>  
 <li> Data Structures & Algorithm Analysis by Clifford A. Shaffer http://people.cs.vt.edu/~shaffer/Book/ </li>
-	<li> Programação em C http://www2.ic.uff.br/~hcgl/tutorial.html </li>
+<li> Programação em C http://www2.ic.uff.br/~hcgl/tutorial.html </li>
   <li> Computação e Analise de Algoritmos https://www.ime.usp.br/~pf/ </li>
   <li> Playground Python Tech.IO https://tech.io/playgrounds/500/advanced-python-features/content/advanced-python-features</li>
   <li> Visualizar Execução de umcódigo, programa, passo à passo - http://www.pythontutor.com/ </li>
   <li> What's New In Python 3 https://docs.python.org/3.0/whatsnew/3.0.html </li>
-	<li> What's New In Python https://docs.python.org/3.0/whatsnew/index.html </li>
-	<li> Garbage Collection In Python - https://docs.python.org/3.0/whatsnew/2.0.html#garbage-collection-of-cycles </li>
+<li> What's New In Python https://docs.python.org/3.0/whatsnew/index.html </li>
+<li> Garbage Collection In Python - https://docs.python.org/3.0/whatsnew/2.0.html#garbage-collection-of-cycles </li>
+<li> https://wsricardo.github.io</li>
    
     
   </ol>
