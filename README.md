@@ -178,6 +178,7 @@ Que tiver mais sugestões e dicas de segurança só comentar. <br>
 	<li>OpenGL For Beginner http://wanartsci.blogspot.com.br/2015/09/opengl-for-begginners-and-wiki-help.html </li>
 	<li>Nvidia GPU GEMS http://developer.nvidia.com/content/gpu-gems-part-i-natural-effects </li>
 	<li> Trabalho & Freelance - https://trampos.co/,  https://www.freelancer.com, https://www.upwork.com/, https://hipsters.jobs/, https://remote.com/ e https://www.workana.com/ .</li>
+	<li> Programação C e GUI GTK https://bitismyth.wordpress.com/2017/04/22/programacao-grafica-em-c-gnome-tool-kit-gtk/ </li>
 </ul>
 <hr>
 <br>
