@@ -17,6 +17,7 @@ Guia para estudos em Matemática, Computação e Introdução Básica a Programa
   <li>www.wsricardo.github.io</>
   <li> Básico sobre Lógica de Programação e Python https://gaenos.wordpress.com/2014/11/15/basico-python/ </li>
   <li> Python Para Zumbis (programação de computador nivel iniciante ao itermediario) https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc</li>
+<li> Ignorância Zerp (Python) Curso https://www.youtube.com/channel/UCmjj41YfcaCpZIkU-oqVIIw </li>
 <li> Cur Python 3 (Cursos Em Videos) https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6</li>
   <li> UnivespTV http://univesptv.com.br/ </li>
   <li> Cursos Gratuitos - Gustavo Guanabara- Canal https://www.youtube.com/user/cursosemvideo</li>   
