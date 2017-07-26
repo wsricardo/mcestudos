@@ -11,7 +11,7 @@ Guia para estudos em Matemática, Computação e Introdução Básica a Programa
 <br>
 
   <ol>
-
+  <li> Latex/TEX (editoração cientifica) https://en.wikibooks.org/wiki/LaTeX </li>
   <li> IMPA https://www.impa.br </li>
   <li> Matemática Básica OBMEP http://matematica.obmep.org.br/ </li>
   <li>www.wsricardo.github.io</>
