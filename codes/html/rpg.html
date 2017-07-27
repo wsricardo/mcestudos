@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>RPG - Goblins Attacks</title>
+
+</head>
+<body>
+<script type="text/javascript">
+function show() {
+	// Obtendo ID do elemento onde a função colocará o valor.
+	// ou irá inserir elemento texto 
+	// (caso tag div usar: var div=document.getElementById("<ID>"); div.innerHTML=<conteudo>;)
+	var Sc = document.getElementById("Screen");
+	var sc2 = document.getElementById("Screen2");
+	Sc.value = "Hello!";
+	sc2.innerHTML="Hello World!";
+	
+}
+</script>
+<div>
+RPG - Goblin Atacam a Cidade
+</div>
+<br><br><br>
+<textarea ID="Screen" name="Screen" rows="15" cols="15"></textarea>
+<br>
+<button  name="Ataque" value="screen" type="button" onclick="show()">Show</button>
+<button  type="button" onclick="show()">Ataque</button>
+<button  type="button" onclick="show()">Defesa</button>
+<button  type="button" onclick="show()">Fuga</button>
+<br>
+<div id="Screen2" style="text-align:center;">Saida: 
+<br> </div>
+</body>
+</html>
