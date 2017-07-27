@@ -190,9 +190,15 @@ Que tiver mais sugestões e dicas de segurança só comentar. <br>
 </ul>
 <hr>
 <br>
+Note muitos codigos e materiais são contribuições de terceiros cabendo
+à estes os respectivos direitos sobre criação. Sendo este repositório
+uma forma não só de manter e divulgar, como também criar
+um guia como auxilio aos estudantes.
+<br><br><br><br>
+Grato.<br>
+Abraços fraternos e cordiais.<br>
 <i>Wandeson Ricardo </i>
 <br>
-Apoie a manutenção do projeto.
 <br>
 <br>
 <a href="http://www.gaenos.blogspot.com">GAENOS http://www.gaenos.blogspot.com</a>
