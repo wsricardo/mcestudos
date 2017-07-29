@@ -197,7 +197,8 @@ Que tiver mais sugestões e dicas de segurança só comentar. <br>
 <li> Sirius - Surgimento dum Laboratório mais moderno ainda
 http://g1.globo.com/sp/campinas-regiao/noticia/laboratorio-sincrotron-a-luz-mais-brilhante-da-ciencia-brasileira-comeca-a-se-apagar.ghtml </li>
 
-<ul>
+</ul>
+<br>
 <hr>
 <br>
 <br>
