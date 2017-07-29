@@ -198,6 +198,8 @@ Que tiver mais sugestões e dicas de segurança só comentar. <br>
 http://g1.globo.com/sp/campinas-regiao/noticia/laboratorio-sincrotron-a-luz-mais-brilhante-da-ciencia-brasileira-comeca-a-se-apagar.ghtml </li>
 
 <ul>
+<hr>
+<br>
 <br>
 Note muitos codigos e materiais são contribuições de terceiros cabendo
 à estes os respectivos direitos sobre criação. Sendo este repositório
