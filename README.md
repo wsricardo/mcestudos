@@ -191,6 +191,14 @@ Que tiver mais sugestões e dicas de segurança só comentar. <br>
 </ul>
 <hr>
 <br>
+<b>Matérias e Artigos</b>
+<br><br>
+<ul>
+<li> Sirius - Surgimento dum Laboratório mais moderno ainda
+http://g1.globo.com/sp/campinas-regiao/noticia/laboratorio-sincrotron-a-luz-mais-brilhante-da-ciencia-brasileira-comeca-a-se-apagar.ghtml </li>
+
+<ul>
+<br>
 Note muitos codigos e materiais são contribuições de terceiros cabendo
 à estes os respectivos direitos sobre criação. Sendo este repositório
 uma forma não só de manter e divulgar, como também criar
