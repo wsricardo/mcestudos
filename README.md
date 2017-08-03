@@ -16,7 +16,9 @@ Guia para estudos em Matemática, Computação e Introdução Básica a Programa
   <li> Matemática Básica OBMEP http://matematica.obmep.org.br/ </li>
   <li>www.wsricardo.github.io</>
   <li> Básico sobre Lógica de Programação e Python https://gaenos.wordpress.com/2014/11/15/basico-python/ </li>
+  <li> Cursos Informática TI http://timtec.com.br/pt/ </li>
   <li> Python Para Zumbis (programação de computador nivel iniciante ao itermediario) https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc</li>
+<li> Criando Game com Python - https://www.youtube.com/watch?v=0YJq9_u4n5k&list=PLxNM4ef1BpxivJHPrgYFROqVACvDG-wRW (www.pygame.org) </li>
 <li> Python OO - Udacity https://www.udacity.com/wiki/classes</li>
 <li> Ignorância Zerp (Python) Curso https://www.youtube.com/channel/UCmjj41YfcaCpZIkU-oqVIIw </li>
 <li> Curso Python 3 (Cursos Em Videos) https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6</li>
