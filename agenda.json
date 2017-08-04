@@ -1,0 +1,80 @@
+{ "Links": [  
+		{
+			"site":  "https://cursos.timtec.com.br/course/dev-jogos/intro/",
+			"info": "Descrição. Curso de criação de jogos Mooc TimTec.",
+			"data": "03-08-2017"
+		},
+
+		{
+			"site": "http://docs.python-requests.org/en/master/user/quickstart/",
+			"info":	"Tutorial e doc sobre biblioteca python requests. Útil para obtenção de dados, webscrapy.",
+			"data": "03-08-2017"
+		},
+
+		{
+			"site": "http://zetcode.com/web/pythonrequests/",
+			"info":	"Tutorial sobre Python Requests",
+			"data": "03-08-2017"
+		},
+		
+		{
+			"site": "https://docs.python.org/3.5/library/unittest.html#assert-methods",
+			"info":	"Documentação Python 3, sobre o módulo unittest que serve para realizar testes em aplicações de forma automática",
+			"data": "03-08-2017"
+
+		},
+
+		{
+			"site": "https://repl.it/",
+			"info":	"Compartilhamento de códigos. Além de poder roda-los e cria r pequenos cursos.",
+			"data": "03-08-2017"
+		},
+
+		{
+			"site": "https://br.udacity.com/course/intro-to-machine-learning--ud120/",
+			"info":	"Curso Udacity de Introdução à Machine Learning (Aprendizado de Máquina).",
+			"data": "03-08-2017"
+		},
+
+		{
+			"site": "https://www.udemy.com/python-com-scrapy",
+			"info":	"Aprenda a utilizar o framework Scrapy para capturar informações de páginas web de forma automática de escalável",
+			"data": "03-08-2017"
+		},
+
+		{
+			"site": "https://www.w3schools.com",
+			"info":	"Documentação e tutorial sobre HTML5, Javascript, CSS, JSON",
+			"data": "03-08-2017"
+		},
+
+
+		{
+			"site": "https://bitismyth.wordpress.com/2017/08/02/mytoyos-cuidados-com-gcc-e-assembler-entre-modos-de-operacao/",
+			"info":	"Artigo sobre Compilador GCC e Assemblers - Cuidados entre Modos de Operação",
+			"data": "03-08-2017"
+		},
+
+		{
+			"site": "https://www.ime.usp.br/~baroni/docs/vim-ide.html",
+			"info": "Tutorial, dicas e scripts para configurar o editor de textoVim",
+			"data": "03-08-2017
+		},
+		
+		{
+			"site": "https://pt.wikibooks.org/wiki/Vim",
+			"info": "Wikilivros(wikipedia) sobre editor Vim, bem completo e em português. Site do editor Vim www.vim.org",
+			"data": "03-08-2017" 
+
+		}
+	],
+
+ "Notifica": [
+		{
+			"info" : "",
+			"data" : "",
+			"conteudo" : ""
+		}
+	]
+	
+}
