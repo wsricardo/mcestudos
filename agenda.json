@@ -66,8 +66,94 @@
 			"info": "Wikilivros(wikipedia) sobre editor Vim, bem completo e em português. Site do editor Vim www.vim.org",
 			"data": "03-08-2017" 
 
+		},
+
+		{
+			"site" : "http://transparencia.org.br",
+			"info" : "",
+			"data" : "04-08-2017"
+		},
+
+		{
+			"site" : "http://sagres.tce.pb.gov.br/",
+			"info" : "",
+			"data" : "04-08-2017"
+		},
+
+		{
+			"site" : "http://alpha.dados.gov.br/",
+			"info" : "",
+			"data" : "04-08-2017"
+		},
+
+		{
+			"site" : "http://www.tse.jus.br/eleicoes/repositorio-de-dados-eleitorais",
+			"info" : "",
+			"data" : "04-08-2017"
+		},
+
+		{
+			"site" : "http://www.catb.org/~esr/faqs/hacker-howto.html",
+			"info" : "Become Hacker",
+			"data" : "04-08-2017"
+		},
+
+		{
+			"site" : "http://www.catb.org/~esr/faqs/hacking-howto.html",
+			"info" : "How To Learn Hacking Eric Steven Raymond",
+			"data" : "04-08-2017"
+		},
+
+		{
+			"site" : "http://norvig.com/21-days.html",
+			"info" : "Teach Yourself Programming in Ten Years Peter Norvig",
+			"data" : "04-08-2017"
+		},
+
+		{
+			"site" : "https://pihisall.wordpress.com/2007/03/15/aprenda-a-programar-em-dez-anos/",
+			"info" : "Programar Em 10 Anos",
+			"data" : "04-08-2017"
+
+		},
+
+		{
+			"site" : "",
+			"info" : "",
+			"data" : ""
+
+		},
+
+		{
+			"site" : "",
+			"info" : "",
+			"data" : ""
+
+		},
+
+		{
+			"site" : "",
+			"info" : "",
+			"data" : ""
+
+		},
+
+		{
+			"site" : "",
+			"info" : "",
+			"data" : ""
+
 		}
+
 	],
+ "Posts" : [
+	 {
+		 "title" : "",
+		 "content" : "",
+		 "data" : ""
+	 }
+	 ],
+	
 
  "Notifica": [
 		{
