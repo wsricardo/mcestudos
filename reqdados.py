@@ -1,4 +1,6 @@
 #!/usr/binpython3
+# By Wandeson Ricardo
+# Pequeno 'samples' de estudo sobre o modulo request do Python.
 import sys
 import time
 import pprint
