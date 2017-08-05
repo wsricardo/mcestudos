@@ -1,4 +1,5 @@
 #!/usr/binpython3
+# By: Wandeson Ricardo
 import sys
 import time
 import pprint
