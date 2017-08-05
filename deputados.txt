@@ -1,0 +1,285 @@
+
+
+ ------------------------------------------------------------
+
+ 	 idLegislatura : 55
+
+ 	 urlFoto : http://www.camara.leg.br/internet/deputado/bandep/178957.jpg
+
+ 	 siglaPartido : DEM
+
+ 	 siglaUf : RR
+
+ 	 nome : ABEL MESQUITA JR.
+
+ 	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36769
+
+ 	 id : 178957
+
+ 	 uri : https://dadosabertos.camara.leg.br/api/v2/deputados/178957
+
+
+ ------------------------------------------------------------
+
+ 	 idLegislatura : 55
+
+ 	 urlFoto : http://www.camara.leg.br/internet/deputado/bandep/178864.jpg
+
+ 	 siglaPartido : PP
+
+ 	 siglaUf : CE
+
+ 	 nome : ADAIL CARNEIRO
+
+ 	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
+
+ 	 id : 178864
+
+ 	 uri : https://dadosabertos.camara.leg.br/api/v2/deputados/178864
+
+
+ ------------------------------------------------------------
+
+ 	 idLegislatura : 55
+
+ 	 urlFoto : http://www.camara.leg.br/internet/deputado/bandep/178914.jpg
+
+ 	 siglaPartido : PTB
+
+ 	 siglaUf : PE
+
+ 	 nome : ADALBERTO CAVALCANTI
+
+ 	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36845
+
+ 	 id : 178914
+
+ 	 uri : https://dadosabertos.camara.leg.br/api/v2/deputados/178914
+
+
+ ------------------------------------------------------------
+
+ 	 idLegislatura : 55
+
+ 	 urlFoto : http://www.camara.leg.br/internet/deputado/bandep/178890.jpg
+
+ 	 siglaPartido : PT
+
+ 	 siglaUf : MG
+
+ 	 nome : ADELMO CARNEIRO LEÃO
+
+ 	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
+
+ 	 id : 178890
+
+ 	 uri : https://dadosabertos.camara.leg.br/api/v2/deputados/178890
+
+
+ ------------------------------------------------------------
+
+ 	 idLegislatura : 55
+
+ 	 urlFoto : http://www.camara.leg.br/internet/deputado/bandep/178968.jpg
+
+ 	 siglaPartido : PR
+
+ 	 siglaUf : SE
+
+ 	 nome : ADELSON BARRETO
+
+ 	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36814
+
+ 	 id : 178968
+
+ 	 uri : https://dadosabertos.camara.leg.br/api/v2/deputados/178968
+
+
+ ------------------------------------------------------------
+
+ 	 idLegislatura : 55
+
+ 	 urlFoto : http://www.camara.leg.br/internet/deputado/bandep/133374.jpg
+
+ 	 siglaPartido : PODE
+
+ 	 siglaUf : MG
+
+ 	 nome : ADEMIR CAMILO
+
+ 	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36896
+
+ 	 id : 133374
+
+ 	 uri : https://dadosabertos.camara.leg.br/api/v2/deputados/133374
+
+
+ ------------------------------------------------------------
+
+ 	 idLegislatura : 55
+
+ 	 urlFoto : http://www.camara.leg.br/internet/deputado/bandep/178903.jpg
+
+ 	 siglaPartido : PSB
+
+ 	 siglaUf : MT
+
+ 	 nome : ADILTON SACHETTI
+
+ 	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36832
+
+ 	 id : 178903
+
+ 	 uri : https://dadosabertos.camara.leg.br/api/v2/deputados/178903
+
+
+ ------------------------------------------------------------
+
+ 	 idLegislatura : 55
+
+ 	 urlFoto : http://www.camara.leg.br/internet/deputado/bandep/141372.jpg
+
+ 	 siglaPartido : PR
+
+ 	 siglaUf : MG
+
+ 	 nome : AELTON FREITAS
+
+ 	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36814
+
+ 	 id : 141372
+
+ 	 uri : https://dadosabertos.camara.leg.br/api/v2/deputados/141372
+
+
+ ------------------------------------------------------------
+
+ 	 idLegislatura : 55
+
+ 	 urlFoto : http://www.camara.leg.br/internet/deputado/bandep/160508.jpg
+
+ 	 siglaPartido : PT
+
+ 	 siglaUf : BA
+
+ 	 nome : AFONSO FLORENCE
+
+ 	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
+
+ 	 id : 160508
+
+ 	 uri : https://dadosabertos.camara.leg.br/api/v2/deputados/160508
+
+
+ ------------------------------------------------------------
+
+ 	 idLegislatura : 55
+
+ 	 urlFoto : http://www.camara.leg.br/internet/deputado/bandep/136811.jpg
+
+ 	 siglaPartido : PP
+
+ 	 siglaUf : RS
+
+ 	 nome : AFONSO HAMM
+
+ 	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
+
+ 	 id : 136811
+
+ 	 uri : https://dadosabertos.camara.leg.br/api/v2/deputados/136811
+
+
+ ------------------------------------------------------------
+
+ 	 idLegislatura : 55
+
+ 	 urlFoto : http://www.camara.leg.br/internet/deputado/bandep/178835.jpg
+
+ 	 siglaPartido : PDT
+
+ 	 siglaUf : RS
+
+ 	 nome : AFONSO MOTTA
+
+ 	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36786
+
+ 	 id : 178835
+
+ 	 uri : https://dadosabertos.camara.leg.br/api/v2/deputados/178835
+
+
+ ------------------------------------------------------------
+
+ 	 idLegislatura : 55
+
+ 	 urlFoto : http://www.camara.leg.br/internet/deputado/bandep/160527.jpg
+
+ 	 siglaPartido : PP
+
+ 	 siglaUf : PB
+
+ 	 nome : AGUINALDO RIBEIRO
+
+ 	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
+
+ 	 id : 160527
+
+ 	 uri : https://dadosabertos.camara.leg.br/api/v2/deputados/160527
+
+
+ ------------------------------------------------------------
+
+ 	 idLegislatura : 55
+
+ 	 urlFoto : http://www.camara.leg.br/internet/deputado/bandep/178836.jpg
+
+ 	 siglaPartido : DEM
+
+ 	 siglaUf : AC
+
+ 	 nome : ALAN RICK
+
+ 	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36769
+
+ 	 id : 178836
+
+ 	 uri : https://dadosabertos.camara.leg.br/api/v2/deputados/178836
+
+
+ ------------------------------------------------------------
+
+ 	 idLegislatura : 55
+
+ 	 urlFoto : http://www.camara.leg.br/internet/deputado/bandep/160582.jpg
+
+ 	 siglaPartido : PMDB
+
+ 	 siglaUf : MA
+
+ 	 nome : ALBERTO FILHO
+
+ 	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
+
+ 	 id : 160582
+
+ 	 uri : https://dadosabertos.camara.leg.br/api/v2/deputados/160582
+
+
+ ------------------------------------------------------------
+
+ 	 idLegislatura : 55
+
+ 	 urlFoto : http://www.camara.leg.br/internet/deputado/bandep/73579.jpg
+
+ 	 siglaPartido : DEM
+
+ 	 siglaUf : DF
+
+ 	 nome : ALBERTO FRAGA
+
+ 	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36769
+
+ 	 id : 73579
+
+ 	 uri : https://dadosabertos.camara.leg.br/api/v2/deputados/73579
