@@ -10,7 +10,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178957.jpg)
+ 	 urlFoto :  ![Alt candidato](178957.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36769
 
