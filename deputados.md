@@ -10,7 +10,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178957.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178957.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36769
 
@@ -27,7 +27,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178864.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178864.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -44,7 +44,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178914.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178914.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36845
 
@@ -61,7 +61,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178890.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178890.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -78,7 +78,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178968.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178968.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36814
 
@@ -95,7 +95,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/133374.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/133374.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36896
 
@@ -112,7 +112,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/196359.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/196359.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -129,7 +129,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178903.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178903.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36832
 
@@ -146,7 +146,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141372.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141372.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36814
 
@@ -163,7 +163,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160508.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160508.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -180,7 +180,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/136811.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/136811.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -197,7 +197,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178835.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178835.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36786
 
@@ -214,7 +214,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160527.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160527.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -231,7 +231,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178836.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178836.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36769
 
@@ -248,7 +248,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160582.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160582.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -265,7 +265,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/73579.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/73579.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36769
 
@@ -282,7 +282,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160559.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160559.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -299,7 +299,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160511.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160511.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36886
 
@@ -316,7 +316,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/73458.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/73458.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36845
 
@@ -333,7 +333,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178972.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178972.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36813
 
@@ -350,7 +350,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178875.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178875.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36896
 
@@ -367,7 +367,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160545.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160545.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36769
 
@@ -384,7 +384,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178833.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178833.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -401,7 +401,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178936.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178936.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36814
 
@@ -418,7 +418,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141454.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141454.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36837
 
@@ -435,7 +435,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178846.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178846.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36814
 
@@ -452,7 +452,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74057.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74057.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36779
 
@@ -469,7 +469,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178927.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178927.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36886
 
@@ -486,7 +486,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178937.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178937.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -503,7 +503,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178881.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178881.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36896
 
@@ -520,7 +520,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178973.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178973.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -537,7 +537,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160551.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160551.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36814
 
@@ -554,7 +554,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178831.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178831.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -571,7 +571,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/195143.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/195143.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -588,7 +588,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74471.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74471.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36834
 
@@ -605,7 +605,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/133439.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/133439.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36786
 
@@ -622,7 +622,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178882.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178882.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -639,7 +639,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160543.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160543.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36833
 
@@ -656,7 +656,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178974.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178974.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -673,7 +673,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/192120.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/192120.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36779
 
@@ -690,7 +690,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178837.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178837.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -707,7 +707,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74212.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74212.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -724,7 +724,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74213.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74213.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36786
 
@@ -741,7 +741,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160553.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160553.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36834
 
@@ -758,7 +758,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141383.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141383.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36815
 
@@ -775,7 +775,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/73584.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/73584.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36851
 
@@ -792,7 +792,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160530.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160530.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -809,7 +809,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178950.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178950.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36896
 
@@ -826,7 +826,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74103.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74103.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36786
 
@@ -843,7 +843,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/73433.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/73433.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -860,7 +860,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/73434.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/73434.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36845
 
@@ -877,7 +877,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141391.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141391.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36813
 
@@ -894,7 +894,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160602.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160602.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36813
 
@@ -911,7 +911,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74291.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74291.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36845
 
@@ -928,7 +928,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74833.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74833.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36833
 
@@ -945,7 +945,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160541.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160541.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -962,7 +962,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160600.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160600.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36813
 
@@ -979,7 +979,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178847.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178847.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -996,7 +996,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/159237.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/159237.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -1013,7 +1013,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74378.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74378.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36786
 
@@ -1030,7 +1030,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160581.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160581.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36779
 
@@ -1047,7 +1047,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/193165.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/193165.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -1064,7 +1064,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74090.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74090.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36834
 
@@ -1081,7 +1081,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74459.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74459.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36832
 
@@ -1098,7 +1098,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/73655.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/73655.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36765
 
@@ -1115,7 +1115,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160665.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160665.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36765
 
@@ -1132,7 +1132,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160512.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160512.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36765
 
@@ -1149,7 +1149,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/69871.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/69871.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36896
 
@@ -1166,7 +1166,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178975.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178975.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -1183,7 +1183,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178834.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178834.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36832
 
@@ -1200,7 +1200,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/73701.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/73701.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -1217,7 +1217,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74535.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74535.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36845
 
@@ -1234,7 +1234,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74040.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74040.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36765
 
@@ -1251,7 +1251,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178915.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178915.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -1268,7 +1268,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141335.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141335.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -1285,7 +1285,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/73437.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/73437.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36815
 
@@ -1302,7 +1302,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178948.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178948.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -1319,7 +1319,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178906.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178906.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -1336,7 +1336,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141513.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141513.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36814
 
@@ -1353,7 +1353,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160538.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160538.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -1370,7 +1370,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74650.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74650.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -1387,7 +1387,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74052.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74052.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36763
 
@@ -1404,7 +1404,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160589.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160589.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -1421,7 +1421,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178999.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178999.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36814
 
@@ -1438,7 +1438,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141394.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141394.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -1455,7 +1455,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178976.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178976.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -1472,7 +1472,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178938.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178938.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36847
 
@@ -1489,7 +1489,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178865.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178865.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36814
 
@@ -1506,7 +1506,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/105112.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/105112.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -1523,7 +1523,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/93083.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/93083.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -1540,7 +1540,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178853.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178853.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -1557,7 +1557,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178891.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178891.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -1574,7 +1574,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/194261.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/194261.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36814
 
@@ -1591,7 +1591,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178829.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178829.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36814
 
@@ -1608,7 +1608,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178924.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178924.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36845
 
@@ -1625,7 +1625,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178958.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178958.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36793
 
@@ -1642,7 +1642,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141401.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141401.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -1659,7 +1659,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74474.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74474.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36786
 
@@ -1676,7 +1676,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178962.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178962.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36815
 
@@ -1693,7 +1693,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178993.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178993.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36896
 
@@ -1710,7 +1710,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74163.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74163.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36765
 
@@ -1727,7 +1727,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178900.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178900.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -1744,7 +1744,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74651.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74651.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36769
 
@@ -1761,7 +1761,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74262.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74262.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -1778,7 +1778,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141398.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141398.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -1795,7 +1795,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/164360.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/164360.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36813
 
@@ -1812,7 +1812,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178876.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178876.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -1829,7 +1829,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/73568.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/73568.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -1846,7 +1846,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141405.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141405.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -1863,7 +1863,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/72912.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/72912.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -1880,7 +1880,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/73441.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/73441.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36815
 
@@ -1897,7 +1897,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160576.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160576.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36815
 
@@ -1914,7 +1914,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178838.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178838.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36832
 
@@ -1931,7 +1931,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/73720.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/73720.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36834
 
@@ -1948,7 +1948,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74171.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74171.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36839
 
@@ -1965,7 +1965,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141439.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141439.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -1982,7 +1982,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141440.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141440.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36779
 
@@ -1999,7 +1999,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178928.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178928.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36814
 
@@ -2016,7 +2016,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178841.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178841.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -2033,7 +2033,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178939.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178939.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36815
 
@@ -2050,7 +2050,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74537.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74537.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36769
 
@@ -2067,7 +2067,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141408.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141408.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36815
 
@@ -2084,7 +2084,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178848.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178848.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -2101,7 +2101,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178963.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178963.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -2118,7 +2118,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/194258.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/194258.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36832
 
@@ -2135,7 +2135,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/93472.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/93472.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36845
 
@@ -2152,7 +2152,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141411.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141411.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36786
 
@@ -2169,7 +2169,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74467.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74467.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36786
 
@@ -2186,7 +2186,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178892.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178892.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36837
 
@@ -2203,7 +2203,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74060.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74060.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36779
 
@@ -2220,7 +2220,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178916.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178916.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -2237,7 +2237,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/144523.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/144523.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -2254,7 +2254,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160528.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160528.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36832
 
@@ -2271,7 +2271,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/62881.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/62881.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36832
 
@@ -2288,7 +2288,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160552.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160552.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36834
 
@@ -2305,7 +2305,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/73891.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/73891.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -2322,7 +2322,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141412.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141412.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36814
 
@@ -2339,7 +2339,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/101309.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/101309.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36779
 
@@ -2356,7 +2356,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141413.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141413.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -2373,7 +2373,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/196357.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/196357.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36815
 
@@ -2390,7 +2390,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178908.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178908.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36834
 
@@ -2407,7 +2407,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178893.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178893.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36814
 
@@ -2424,7 +2424,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160646.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160646.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36765
 
@@ -2441,7 +2441,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/164359.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/164359.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36814
 
@@ -2458,7 +2458,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74172.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74172.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36845
 
@@ -2475,7 +2475,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/185500.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/185500.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36786
 
@@ -2492,7 +2492,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160588.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160588.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36834
 
@@ -2509,7 +2509,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178929.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178929.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36793
 
@@ -2526,7 +2526,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/73768.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/73768.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -2543,7 +2543,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160599.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160599.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -2560,7 +2560,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/143632.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/143632.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36834
 
@@ -2577,7 +2577,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160758.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160758.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -2594,7 +2594,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178940.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178940.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36814
 
@@ -2611,7 +2611,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160643.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160643.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36793
 
@@ -2628,7 +2628,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178830.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178830.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36896
 
@@ -2645,7 +2645,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141385.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141385.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -2662,7 +2662,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178994.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178994.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -2679,7 +2679,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/73447.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/73447.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -2696,7 +2696,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/73793.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/73793.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -2713,7 +2713,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141417.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141417.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36814
 
@@ -2730,7 +2730,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160578.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160578.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36834
 
@@ -2747,7 +2747,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/134812.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/134812.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36839
 
@@ -2764,7 +2764,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74655.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74655.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -2781,7 +2781,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/92346.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/92346.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36833
 
@@ -2798,7 +2798,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74173.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74173.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -2815,7 +2815,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178977.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178977.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -2832,7 +2832,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141421.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141421.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -2849,7 +2849,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141422.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141422.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36769
 
@@ -2866,7 +2866,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74075.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74075.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -2883,7 +2883,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160532.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160532.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36769
 
@@ -2900,7 +2900,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/181316.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/181316.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -2917,7 +2917,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178883.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178883.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36813
 
@@ -2934,7 +2934,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178854.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178854.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36769
 
@@ -2951,7 +2951,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/132504.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/132504.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -2968,7 +2968,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160575.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160575.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -2985,7 +2985,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/99654.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/99654.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36761
 
@@ -3002,7 +3002,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160640.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160640.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36763
 
@@ -3019,7 +3019,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160649.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160649.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -3036,7 +3036,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178871.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178871.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36851
 
@@ -3053,7 +3053,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178828.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178828.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36851
 
@@ -3070,7 +3070,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178930.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178930.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36834
 
@@ -3087,7 +3087,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178953.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178953.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36834
 
@@ -3104,7 +3104,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178904.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178904.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -3121,7 +3121,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178941.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178941.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36896
 
@@ -3138,7 +3138,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/146829.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/146829.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -3155,7 +3155,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141428.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141428.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36834
 
@@ -3172,7 +3172,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178905.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178905.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36832
 
@@ -3189,7 +3189,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178969.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178969.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36834
 
@@ -3206,7 +3206,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141427.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141427.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -3223,7 +3223,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/171623.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/171623.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -3240,7 +3240,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178877.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178877.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -3257,7 +3257,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/190149.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/190149.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36832
 
@@ -3274,7 +3274,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/66828.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/66828.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -3291,7 +3291,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141430.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141430.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36763
 
@@ -3308,7 +3308,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/72442.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/72442.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36832
 
@@ -3325,7 +3325,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141429.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141429.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36769
 
@@ -3342,7 +3342,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160666.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160666.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36786
 
@@ -3359,7 +3359,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141431.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141431.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36832
 
@@ -3376,7 +3376,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/163831.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/163831.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -3393,7 +3393,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/73481.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/73481.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -3410,7 +3410,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/92699.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/92699.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -3427,7 +3427,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160676.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160676.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36834
 
@@ -3444,7 +3444,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160598.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160598.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36786
 
@@ -3461,7 +3461,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141434.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141434.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -3478,7 +3478,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178978.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178978.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36832
 
@@ -3495,7 +3495,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/191923.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/191923.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36786
 
@@ -3512,7 +3512,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178979.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178979.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -3529,7 +3529,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178907.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178907.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36896
 
@@ -3546,7 +3546,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160677.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160677.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36769
 
@@ -3563,7 +3563,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/186775.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/186775.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -3580,7 +3580,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/129037.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/129037.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -3597,7 +3597,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160669.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160669.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36765
 
@@ -3614,7 +3614,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141441.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141441.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36832
 
@@ -3631,7 +3631,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178966.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178966.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -3648,7 +3648,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74374.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74374.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -3665,7 +3665,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74383.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74383.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36814
 
@@ -3682,7 +3682,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74270.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74270.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36833
 
@@ -3699,7 +3699,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160673.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160673.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36814
 
@@ -3716,7 +3716,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178996.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178996.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -3733,7 +3733,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178878.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178878.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -3750,7 +3750,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74558.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74558.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36793
 
@@ -3767,7 +3767,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178872.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178872.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -3784,7 +3784,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/152605.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/152605.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36839
 
@@ -3801,7 +3801,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74419.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74419.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36832
 
@@ -3818,7 +3818,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/129618.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/129618.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36814
 
@@ -3835,7 +3835,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178980.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178980.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36834
 
@@ -3852,7 +3852,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/194259.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/194259.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -3869,7 +3869,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160667.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160667.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -3886,7 +3886,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178964.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178964.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36832
 
@@ -3903,7 +3903,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178873.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178873.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -3920,7 +3920,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178909.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178909.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36769
 
@@ -3937,7 +3937,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/73482.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/73482.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -3954,7 +3954,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/97707.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/97707.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36832
 
@@ -3971,7 +3971,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178981.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178981.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36834
 
@@ -3988,7 +3988,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/73772.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/73772.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -4005,7 +4005,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160596.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160596.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36834
 
@@ -4022,7 +4022,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178884.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178884.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -4039,7 +4039,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178959.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178959.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -4056,7 +4056,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178849.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178849.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36786
 
@@ -4073,7 +4073,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141450.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141450.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36832
 
@@ -4090,7 +4090,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160674.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160674.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -4107,7 +4107,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/194592.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/194592.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36832
 
@@ -4124,7 +4124,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141389.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141389.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36834
 
@@ -4141,7 +4141,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/67138.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/67138.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -4158,7 +4158,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/81232.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/81232.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36834
 
@@ -4175,7 +4175,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178855.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178855.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36833
 
@@ -4192,7 +4192,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/73531.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/73531.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36839
 
@@ -4209,7 +4209,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/4931.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/4931.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -4226,7 +4226,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/196378.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/196378.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -4243,7 +4243,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74665.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74665.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36834
 
@@ -4260,7 +4260,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74847.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74847.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36833
 
@@ -4277,7 +4277,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74848.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74848.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36779
 
@@ -4294,7 +4294,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/73926.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/73926.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36832
 
@@ -4311,7 +4311,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/131943.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/131943.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -4328,7 +4328,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160672.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160672.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36839
 
@@ -4345,7 +4345,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74273.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74273.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36834
 
@@ -4362,7 +4362,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160570.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160570.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -4379,7 +4379,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178839.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178839.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -4396,7 +4396,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178842.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178842.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36832
 
@@ -4413,7 +4413,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160531.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160531.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36815
 
@@ -4430,7 +4430,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141503.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141503.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36779
 
@@ -4447,7 +4447,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160573.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160573.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -4464,7 +4464,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74366.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74366.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36815
 
@@ -4481,7 +4481,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141458.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141458.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36814
 
@@ -4498,7 +4498,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74445.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74445.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -4515,7 +4515,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178970.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178970.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -4532,7 +4532,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178965.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178965.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36886
 
@@ -4549,7 +4549,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178917.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178917.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36832
 
@@ -4566,7 +4566,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178856.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178856.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -4583,7 +4583,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/112437.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/112437.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -4600,7 +4600,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178967.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178967.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36834
 
@@ -4617,7 +4617,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178988.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178988.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -4634,7 +4634,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160571.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160571.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36834
 
@@ -4651,7 +4651,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178910.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178910.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36834
 
@@ -4668,7 +4668,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/194262.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/194262.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -4685,7 +4685,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178971.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178971.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36815
 
@@ -4702,7 +4702,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74388.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74388.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -4719,7 +4719,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160572.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160572.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36845
 
@@ -4736,7 +4736,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178857.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178857.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -4753,7 +4753,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/73535.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/73535.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36769
 
@@ -4770,7 +4770,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160509.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160509.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36814
 
@@ -4787,7 +4787,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141464.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141464.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -4804,7 +4804,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74553.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74553.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36769
 
@@ -4821,7 +4821,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74140.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74140.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36814
 
@@ -4838,7 +4838,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/131966.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/131966.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -4855,7 +4855,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141470.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141470.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -4872,7 +4872,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74275.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74275.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -4889,7 +4889,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160619.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160619.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36834
 
@@ -4906,7 +4906,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74395.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74395.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -4923,7 +4923,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74079.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74079.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -4940,7 +4940,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/73714.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/73714.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36832
 
@@ -4957,7 +4957,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74554.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74554.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36814
 
@@ -4974,7 +4974,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160607.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160607.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36832
 
@@ -4991,7 +4991,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/114941.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/114941.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -5008,7 +5008,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74141.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74141.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -5025,7 +5025,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74351.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74351.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36845
 
@@ -5042,7 +5042,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/73666.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/73666.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36845
 
@@ -5059,7 +5059,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178851.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178851.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36896
 
@@ -5076,7 +5076,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/67312.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/67312.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36833
 
@@ -5093,7 +5093,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141474.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141474.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36786
 
@@ -5110,7 +5110,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74317.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74317.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36834
 
@@ -5127,7 +5127,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/73586.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/73586.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36832
 
@@ -5144,7 +5144,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74253.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74253.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -5161,7 +5161,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178885.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178885.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36761
 
@@ -5178,7 +5178,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178886.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178886.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36769
 
@@ -5195,7 +5195,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74570.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74570.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -5212,7 +5212,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178918.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178918.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -5229,7 +5229,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160659.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160659.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36832
 
@@ -5246,7 +5246,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/151208.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/151208.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36765
 
@@ -5263,7 +5263,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141478.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141478.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36814
 
@@ -5280,7 +5280,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178894.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178894.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36765
 
@@ -5297,7 +5297,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74856.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74856.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -5314,7 +5314,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141480.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141480.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -5331,7 +5331,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178832.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178832.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36851
 
@@ -5348,7 +5348,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141562.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141562.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -5365,7 +5365,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178825.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178825.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -5382,7 +5382,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74156.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74156.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -5399,7 +5399,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74254.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74254.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -5416,7 +5416,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141482.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141482.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -5433,7 +5433,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74299.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74299.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36786
 
@@ -5450,7 +5450,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160663.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160663.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36832
 
@@ -5467,7 +5467,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74585.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74585.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36815
 
@@ -5484,7 +5484,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141483.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141483.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36815
 
@@ -5501,7 +5501,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74277.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74277.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -5518,7 +5518,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/196358.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/196358.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36896
 
@@ -5535,7 +5535,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/81366.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/81366.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36832
 
@@ -5552,7 +5552,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178879.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178879.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36765
 
@@ -5569,7 +5569,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160628.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160628.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36779
 
@@ -5586,7 +5586,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74478.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74478.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36837
 
@@ -5603,7 +5603,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178931.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178931.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36832
 
@@ -5620,7 +5620,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178954.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178954.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -5637,7 +5637,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141484.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141484.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36814
 
@@ -5654,7 +5654,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/94931.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/94931.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -5671,7 +5671,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/73483.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/73483.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -5688,7 +5688,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160510.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160510.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36847
 
@@ -5705,7 +5705,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141485.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141485.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36845
 
@@ -5722,7 +5722,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/73778.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/73778.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -5739,7 +5739,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178802.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178802.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36896
 
@@ -5756,7 +5756,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178955.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178955.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36814
 
@@ -5773,7 +5773,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74041.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74041.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -5790,7 +5790,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141487.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141487.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -5807,7 +5807,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178982.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178982.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36832
 
@@ -5824,7 +5824,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/162332.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/162332.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36814
 
@@ -5841,7 +5841,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74688.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74688.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -5858,7 +5858,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74784.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74784.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36839
 
@@ -5875,7 +5875,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178866.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178866.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -5892,7 +5892,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/198198.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/198198.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36813
 
@@ -5909,7 +5909,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178867.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178867.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -5926,7 +5926,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/166402.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/166402.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36814
 
@@ -5943,7 +5943,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/151965.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/151965.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -5960,7 +5960,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178826.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178826.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36765
 
@@ -5977,7 +5977,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160633.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160633.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36769
 
@@ -5994,7 +5994,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141490.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141490.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -6011,7 +6011,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160565.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160565.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -6028,7 +6028,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160660.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160660.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36769
 
@@ -6045,7 +6045,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/179000.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/179000.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36814
 
@@ -6062,7 +6062,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/146788.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/146788.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36793
 
@@ -6079,7 +6079,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178932.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178932.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -6096,7 +6096,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74460.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74460.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -6113,7 +6113,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/195826.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/195826.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36814
 
@@ -6130,7 +6130,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/76287.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/76287.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36793
 
@@ -6147,7 +6147,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/118594.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/118594.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36815
 
@@ -6164,7 +6164,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178983.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178983.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36814
 
@@ -6181,7 +6181,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/179001.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/179001.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -6198,7 +6198,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/150418.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/150418.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36815
 
@@ -6215,7 +6215,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178899.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178899.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -6232,7 +6232,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178942.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178942.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -6249,7 +6249,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/133373.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/133373.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -6266,7 +6266,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160536.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160536.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -6283,7 +6283,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160535.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160535.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -6300,7 +6300,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74470.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74470.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36833
 
@@ -6317,7 +6317,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178880.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178880.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36813
 
@@ -6334,7 +6334,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74634.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74634.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36896
 
@@ -6351,7 +6351,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141500.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141500.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36834
 
@@ -6368,7 +6368,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178852.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178852.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36834
 
@@ -6385,7 +6385,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/167722.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/167722.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36769
 
@@ -6402,7 +6402,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178850.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178850.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -6419,7 +6419,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178943.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178943.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36769
 
@@ -6436,7 +6436,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/159238.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/159238.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -6453,7 +6453,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74235.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74235.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -6470,7 +6470,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/171619.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/171619.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -6487,7 +6487,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74398.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74398.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -6504,7 +6504,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/64960.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/64960.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36832
 
@@ -6521,7 +6521,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178956.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178956.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -6538,7 +6538,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178919.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178919.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36832
 
@@ -6555,7 +6555,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74177.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74177.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -6572,7 +6572,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74158.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74158.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36786
 
@@ -6589,7 +6589,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178858.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178858.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -6606,7 +6606,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/181315.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/181315.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -6623,7 +6623,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178843.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178843.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -6640,7 +6640,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74050.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74050.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36814
 
@@ -6657,7 +6657,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/73588.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/73588.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -6674,7 +6674,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74749.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74749.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -6691,7 +6691,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141507.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141507.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -6708,7 +6708,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/124411.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/124411.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -6725,7 +6725,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178827.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178827.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -6742,7 +6742,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74428.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74428.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36769
 
@@ -6759,7 +6759,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/188097.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/188097.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -6776,7 +6776,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141509.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141509.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -6793,7 +6793,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178984.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178984.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -6810,7 +6810,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178985.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178985.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36814
 
@@ -6827,7 +6827,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74787.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74787.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36814
 
@@ -6844,7 +6844,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74862.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74862.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36886
 
@@ -6861,7 +6861,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178895.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178895.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36769
 
@@ -6878,7 +6878,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160561.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160561.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36769
 
@@ -6895,7 +6895,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178859.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178859.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -6912,7 +6912,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/195278.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/195278.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36779
 
@@ -6929,7 +6929,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74457.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74457.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36769
 
@@ -6946,7 +6946,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178997.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178997.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -6963,7 +6963,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160567.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160567.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -6980,7 +6980,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/73553.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/73553.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36845
 
@@ -6997,7 +6997,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/73781.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/73781.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -7014,7 +7014,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/193069.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/193069.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36834
 
@@ -7031,7 +7031,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160566.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160566.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -7048,7 +7048,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74571.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74571.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -7065,7 +7065,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178896.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178896.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -7082,7 +7082,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74751.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74751.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -7099,7 +7099,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/166401.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/166401.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -7116,7 +7116,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74352.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74352.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -7133,7 +7133,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178986.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178986.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -7150,7 +7150,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74359.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74359.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36845
 
@@ -7167,7 +7167,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/194260.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/194260.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36824
 
@@ -7184,7 +7184,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/66179.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/66179.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36769
 
@@ -7201,7 +7201,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74159.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74159.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -7218,7 +7218,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74752.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74752.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -7235,7 +7235,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178868.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178868.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36832
 
@@ -7252,7 +7252,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74399.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74399.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36769
 
@@ -7269,7 +7269,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178987.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178987.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36779
 
@@ -7286,7 +7286,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/180545.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/180545.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36769
 
@@ -7303,7 +7303,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/73463.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/73463.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -7320,7 +7320,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/73692.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/73692.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -7337,7 +7337,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141515.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141515.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -7354,7 +7354,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160556.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160556.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -7371,7 +7371,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74319.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74319.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36845
 
@@ -7388,7 +7388,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160642.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160642.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36793
 
@@ -7405,7 +7405,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/193982.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/193982.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36815
 
@@ -7422,7 +7422,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74160.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74160.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -7439,7 +7439,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74095.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74095.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36769
 
@@ -7456,7 +7456,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/171617.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/171617.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -7473,7 +7473,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141516.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141516.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -7490,7 +7490,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178860.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178860.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36769
 
@@ -7507,7 +7507,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74017.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74017.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36814
 
@@ -7524,7 +7524,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160517.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160517.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36832
 
@@ -7541,7 +7541,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160558.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160558.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36814
 
@@ -7558,7 +7558,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141517.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141517.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -7575,7 +7575,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74574.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74574.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36834
 
@@ -7592,7 +7592,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/132056.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/132056.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -7609,7 +7609,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/193726.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/193726.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -7626,7 +7626,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141518.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141518.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36765
 
@@ -7643,7 +7643,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74400.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74400.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -7660,7 +7660,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141488.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141488.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -7677,7 +7677,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74812.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74812.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -7694,7 +7694,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178912.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178912.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -7711,7 +7711,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74449.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74449.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36845
 
@@ -7728,7 +7728,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/122158.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/122158.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -7745,7 +7745,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160604.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160604.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -7762,7 +7762,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178844.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178844.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -7779,7 +7779,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/80920.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/80920.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36851
 
@@ -7796,7 +7796,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141445.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141445.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -7813,7 +7813,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/195997.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/195997.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36813
 
@@ -7830,7 +7830,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/73486.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/73486.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36786
 
@@ -7847,7 +7847,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160601.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160601.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36833
 
@@ -7864,7 +7864,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/170673.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/170673.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36834
 
@@ -7881,7 +7881,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/148134.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/148134.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36833
 
@@ -7898,7 +7898,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160639.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160639.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36769
 
@@ -7915,7 +7915,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160641.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160641.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36779
 
@@ -7932,7 +7932,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178951.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178951.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36832
 
@@ -7949,7 +7949,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74216.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74216.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -7966,7 +7966,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178998.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178998.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36834
 
@@ -7983,7 +7983,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74048.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74048.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36813
 
@@ -8000,7 +8000,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74161.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74161.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -8017,7 +8017,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/73786.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/73786.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36834
 
@@ -8034,7 +8034,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178925.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178925.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -8051,7 +8051,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178960.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178960.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36814
 
@@ -8068,7 +8068,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178989.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178989.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36896
 
@@ -8085,7 +8085,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/171620.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/171620.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -8102,7 +8102,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141527.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141527.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -8119,7 +8119,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160654.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160654.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -8136,7 +8136,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/73788.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/73788.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -8153,7 +8153,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/195581.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/195581.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36815
 
@@ -8170,7 +8170,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160655.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160655.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -8187,7 +8187,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178920.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178920.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36896
 
@@ -8204,7 +8204,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141472.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141472.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -8221,7 +8221,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/152610.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/152610.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36815
 
@@ -8238,7 +8238,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/73674.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/73674.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -8255,7 +8255,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141529.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141529.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -8272,7 +8272,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160653.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160653.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36851
 
@@ -8289,7 +8289,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/73805.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/73805.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36813
 
@@ -8306,7 +8306,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178995.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178995.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36786
 
@@ -8323,7 +8323,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178944.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178944.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36815
 
@@ -8340,7 +8340,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160652.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160652.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -8357,7 +8357,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/91208.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/91208.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -8374,7 +8374,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178840.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178840.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -8391,7 +8391,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141532.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141532.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -8408,7 +8408,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141531.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141531.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -8425,7 +8425,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/88950.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/88950.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36769
 
@@ -8442,7 +8442,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74693.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74693.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36769
 
@@ -8459,7 +8459,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178926.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178926.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36832
 
@@ -8476,7 +8476,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178897.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178897.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -8493,7 +8493,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141535.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141535.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -8510,7 +8510,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160651.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160651.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -8527,7 +8527,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160426.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160426.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36834
 
@@ -8544,7 +8544,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/198963.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/198963.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -8561,7 +8561,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141536.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141536.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36834
 
@@ -8578,7 +8578,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160515.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160515.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -8595,7 +8595,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178861.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178861.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -8612,7 +8612,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160637.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160637.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36763
 
@@ -8629,7 +8629,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178845.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178845.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36786
 
@@ -8646,7 +8646,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/122466.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/122466.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36815
 
@@ -8663,7 +8663,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/163321.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/163321.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36845
 
@@ -8680,7 +8680,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178870.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178870.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -8697,7 +8697,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/191684.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/191684.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36786
 
@@ -8714,7 +8714,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178945.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178945.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36815
 
@@ -8731,7 +8731,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/146949.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/146949.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36847
 
@@ -8748,7 +8748,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178935.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178935.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -8765,7 +8765,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/73466.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/73466.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36813
 
@@ -8782,7 +8782,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74371.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74371.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -8799,7 +8799,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178887.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178887.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36779
 
@@ -8816,7 +8816,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141522.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141522.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36845
 
@@ -8833,7 +8833,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160630.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160630.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -8850,7 +8850,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178990.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178990.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -8867,7 +8867,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74372.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74372.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -8884,7 +8884,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160621.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160621.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36834
 
@@ -8901,7 +8901,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74762.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74762.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -8918,7 +8918,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74210.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74210.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36851
 
@@ -8935,7 +8935,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178921.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178921.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36814
 
@@ -8952,7 +8952,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/73808.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/73808.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36834
 
@@ -8969,7 +8969,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141542.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141542.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36845
 
@@ -8986,7 +8986,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178991.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178991.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36815
 
@@ -9003,7 +9003,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178933.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178933.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -9020,7 +9020,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178874.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178874.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36786
 
@@ -9037,7 +9037,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160612.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160612.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -9054,7 +9054,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/167614.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/167614.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36832
 
@@ -9071,7 +9071,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178961.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178961.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -9088,7 +9088,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160613.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160613.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -9105,7 +9105,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74765.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74765.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -9122,7 +9122,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74356.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74356.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36815
 
@@ -9139,7 +9139,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/187008.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/187008.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36896
 
@@ -9156,7 +9156,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/4930.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/4930.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36847
 
@@ -9173,7 +9173,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/73560.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/73560.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -9190,7 +9190,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/73424.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/73424.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -9207,7 +9207,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178911.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178911.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -9224,7 +9224,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178946.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178946.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -9241,7 +9241,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178947.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178947.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36769
 
@@ -9258,7 +9258,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/92776.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/92776.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36834
 
@@ -9275,7 +9275,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/177282.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/177282.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36786
 
@@ -9292,7 +9292,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178922.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178922.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36832
 
@@ -9309,7 +9309,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74385.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74385.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36833
 
@@ -9326,7 +9326,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/73831.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/73831.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36834
 
@@ -9343,7 +9343,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178898.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178898.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36832
 
@@ -9360,7 +9360,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178901.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178901.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36832
 
@@ -9377,7 +9377,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160617.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160617.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36834
 
@@ -9394,7 +9394,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178862.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178862.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36815
 
@@ -9411,7 +9411,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160976.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160976.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36814
 
@@ -9428,7 +9428,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160611.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160611.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -9445,7 +9445,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178934.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178934.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36763
 
@@ -9462,7 +9462,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178863.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178863.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36851
 
@@ -9479,7 +9479,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/195866.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/195866.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36769
 
@@ -9496,7 +9496,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/194340.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/194340.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36829
 
@@ -9513,7 +9513,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141384.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141384.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36832
 
@@ -9530,7 +9530,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74010.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74010.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -9547,7 +9547,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160610.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160610.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -9564,7 +9564,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/113247.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/113247.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -9581,7 +9581,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141552.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141552.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36832
 
@@ -9598,7 +9598,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74376.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74376.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -9615,7 +9615,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141553.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141553.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -9632,7 +9632,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178913.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178913.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -9649,7 +9649,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74308.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74308.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36786
 
@@ -9666,7 +9666,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160622.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160622.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -9683,7 +9683,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74283.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74283.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -9700,7 +9700,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/137070.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/137070.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36814
 
@@ -9717,7 +9717,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178888.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178888.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36834
 
@@ -9734,7 +9734,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141555.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141555.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36815
 
@@ -9751,7 +9751,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160591.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160591.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36814
 
@@ -9768,7 +9768,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178992.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178992.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -9785,7 +9785,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178869.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178869.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -9802,7 +9802,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/189593.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/189593.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -9819,7 +9819,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/137853.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/137853.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36779
 
@@ -9836,7 +9836,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160569.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160569.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -9853,7 +9853,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141558.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141558.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -9870,7 +9870,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160631.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160631.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36761
 
@@ -9887,7 +9887,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178952.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178952.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -9904,7 +9904,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141560.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141560.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36834
 
@@ -9921,7 +9921,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160620.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160620.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -9938,7 +9938,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160518.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160518.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36887
 
@@ -9955,7 +9955,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74043.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74043.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36814
 
@@ -9972,7 +9972,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/167493.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/167493.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36786
 
@@ -9989,7 +9989,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/141563.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/141563.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36809
 
@@ -10006,7 +10006,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/193066.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/193066.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -10023,7 +10023,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160636.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160636.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36845
 
@@ -10040,7 +10040,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/73930.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/73930.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36765
 
@@ -10057,7 +10057,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/74439.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/74439.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36786
 
@@ -10074,7 +10074,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/73992.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/73992.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36835
 
@@ -10091,7 +10091,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/191945.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/191945.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36800
 
@@ -10108,7 +10108,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178889.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178889.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -10125,7 +10125,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/73931.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/73931.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -10142,7 +10142,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160632.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160632.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36765
 
@@ -10159,7 +10159,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178923.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178923.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36845
 
@@ -10176,7 +10176,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/160592.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/160592.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -10193,7 +10193,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178902.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178902.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36844
 
@@ -10210,7 +10210,7 @@
 
  	 idLegislatura : 55
 
- 	 urlFoto : [[http://www.camara.leg.br/internet/deputado/bandep/178949.jpg]]
+ 	 urlFoto :  ![Alt candidato](http://www.camara.leg.br/internet/deputado/bandep/178949.jpg)
 
  	 uriPartido : https://dadosabertos.camara.leg.br/api/v2/partidos/36814
 
