@@ -193,7 +193,7 @@ Que tiver mais sugestões e dicas de segurança só comentar. <br>
 	<li>Processamento de Imagem
 https://processing.org/tutorials/pixels/ </li>
 
-<li>Simulações
+<li>Simulações Naturais
 https://pt.khanacademy.org/computing/computer-programming/programming-natural-simulations
 	</li>
 </ul>
