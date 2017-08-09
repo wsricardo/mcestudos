@@ -190,6 +190,12 @@ Que tiver mais sugestões e dicas de segurança só comentar. <br>
 	<li> Trabalho & Freelance - https://trampos.co/,  https://www.freelancer.com, https://www.upwork.com/, https://hipsters.jobs/, https://remote.com/ e https://www.workana.com/ .</li>
 	<li> Programação C e GUI GTK https://bitismyth.wordpress.com/2017/04/22/programacao-grafica-em-c-gnome-tool-kit-gtk/ </li>
 	<li> Artigo: Analise de Dados Públicos - Crislânio https://crislanio.wordpress.com/2017/06/02/analise-dos-dados-abertos-do-governo-federal/ </li>
+	<li>Processamento de Imagem
+https://processing.org/tutorials/pixels/ </li>
+
+<li>Simulações
+https://pt.khanacademy.org/computing/computer-programming/programming-natural-simulations
+	</li>
 </ul>
 <hr>
 <br>
