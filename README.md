@@ -119,12 +119,19 @@ Links
 <li>Textos Cientificos com Latex (online) - https://www.overleaf.com/ e https://www.sharelatex.com/ </li>
 <li>Latex em HTML com Mathjax https://www.mathjax.org Github https://github.com/mathjax/MathJax </li>
 <li> Qt Creator IDE - Desenvolvimenti GUI Qt C/C++ https://www.qt.io/ide/ </li>
-<li> Processamento de Imagem.
-1. http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_table_of_contents_imgproc/py_table_of_contents_imgproc.html
-
-2. http://scikit-image.org/
-</li>
+ 
 </ul>
+<br><br>
+<b><i> Computação Grafica e Video - Processamento de Imagem</i></b>
+
+* OpenCV - Visão Computacional http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_table_of_contents_imgproc/py_table_of_contents_imgproc.html
+
+* Scipy, Numpy, Packs Scientific Computer http://scikit-image.org/
+
+* MoviePy Processamento de video http://zulko.github.io/moviepy/
+
+
+<br>
 <br><br>
 Markdown/Texts Editor
 <br>
