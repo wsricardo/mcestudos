@@ -9,6 +9,7 @@ Portais
 3. www.ibge.gov.br
 4. https://dadosabertos.camara.leg.br
 5. http://www.portaltransparencia.gov.br
+6. http://api.pgi.gov.br/
 
 Artigos
 -----------
