@@ -36,7 +36,7 @@ Guia para estudos em Matemática, Computação e Introdução Básica a Programa
 <li> What's New In Python https://docs.python.org/3.0/whatsnew/index.html </li>
 <li> Garbage Collection In Python - https://docs.python.org/3.0/whatsnew/2.0.html#garbage-collection-of-cycles </li>
 <li> https://wsricardo.github.io</li>
-   
+<li> Raspagem de Dados - Portais e Artigos https://github.com/wsricardo/mcestudos/blob/master/rasp-dados.md </li>   
     
   </ol>
 
