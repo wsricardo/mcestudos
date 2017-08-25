@@ -10,6 +10,7 @@ Portais
 4. https://dadosabertos.camara.leg.br
 5. http://www.portaltransparencia.gov.br
 6. Plataforma de Gestão de Indicadores http://api.pgi.gov.br/
+7. Portal E-Cidadania do Senado Federal Brasil (Discução e desenvolvimento de propostas) - https://www12.senado.leg.br/ecidadania
 
 Artigos
 -----------
