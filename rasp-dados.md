@@ -16,5 +16,5 @@ Artigos
 -----------
 
 1. Texto sobre Raspagem de Dados com Google Sheet https://escoladedados.org/manual/cursos/raspagem/;
-2. Caso de Exemplo Violência Domestica em (Valores repassados assistência jurídica a vítimas de violência doméstica e familiar) http://dados.gov.br/dataset/assistencia-juridica - Arquivo JSON http://api.pgi.gov.br/api/1/serie/2531.json;
+2. Caso de Exemplo Violência Domestica em (Valores repassados assistência jurídica a vítimas de violência doméstica e familiar) http://dados.gov.br/dataset/assistencia-juridica - Arquivo JSON http://api.pgi.gov.br/api/1/serie/2531.json (codigo python p/ extrair dados https://github.com/wsricardo/mcestudos/blob/master/crow_data.py);
 3. 
