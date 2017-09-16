@@ -10,7 +10,6 @@ import matplotlib
 # Datas
 data = None
 # URL Page from datas sources.
-#url = 'http://api.icndb.com/jokes/random?limitTo=[nerdy]'
 url = 'http://api.pgi.gov.br/api/1/serie/2531.json'
 
 # Get connection with API or web page
