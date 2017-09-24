@@ -13,6 +13,7 @@ Guia para estudos em Matemática, Computação e Introdução Básica a Programa
   <ol>
   <li> Latex/TEX (editoração cientifica) https://en.wikibooks.org/wiki/LaTeX </li>
 <li>Editor de texto Vim (livro sobre) https://woliveiras.com.br/vimparanoobs/index.html </li>
+	<li>PET-CoCE é um Programa de Educação Tutorial (PET) da Universidade Tecnológica Federal do Paraná (UTFPR), Câmpus Curitiba http://www.dainf.ct.utfpr.edu.br/petcoce/ </li>
   <li> IMPA https://www.impa.br </li>
   <li> Matemática Básica OBMEP http://matematica.obmep.org.br/ </li>
   <li>www.wsricardo.github.io</>
