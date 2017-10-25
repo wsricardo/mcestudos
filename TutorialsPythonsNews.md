@@ -13,6 +13,6 @@ Official Web Page www.python.org
 
 * Live Python Tutoriais(PT_BR)  https://www.youtube.com/user/mendesesduardo/videos
 
-* Awesome Python - List of liraries, frameworks, softwares and resources for work with Python development. (EN) 
+* Awesome Python - List of libraries, frameworks, softwares and resources for work with Python development. (EN) 
   - Page Home https://awesome-python.com/
   - Github https://github.com/vinta/awesome-python
