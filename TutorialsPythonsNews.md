@@ -1,6 +1,11 @@
 # Tutorials Pythons News
 ### Tutoriais, materiais e novidades sobre Python
 ------------------------------------------------------
+
+Official Web Page www.python.org
+
+------------------------------------------------------
+
 #### Tutorials & Estudo
 
 * Tutorials And Videos Lessons (EN) https://pythonprogramming.net
