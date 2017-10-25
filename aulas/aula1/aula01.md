@@ -70,6 +70,6 @@ pelo programador como mensagem a ser exibida.
 
 
 <br><br>
-<i>Veja codigo aula01.py </i>
+<i>Veja codigo [aula01.py](https://github.com/wsricardo/mcestudos/blob/master/aulas/aula1/aula01.py) </i>
 <br>
 Prossiga para Aula 02 ...
