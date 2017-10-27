@@ -1,6 +1,7 @@
 CC=gcc
 all:
-	$(CC) -shared vetor.c vetor.h -o libvectors.so
+	# $(CC) -shared vetor.c vetor.h -o libvectors.so
+	$(CC) main.c vetor.c vetor.h
 clean:
 	rm -f a.out
 install:
