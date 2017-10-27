@@ -3,6 +3,7 @@ all:
 	# $(CC) -shared vetor.c vetor.h -o libvectors.so
 	$(CC) main.c vetor.c vetor.h
 clean:
+	#rm -f libvectors.so
 	rm -f a.out
 install:
 	install  -m 0644 libvectors.so /usr/local/lib
