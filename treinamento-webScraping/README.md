@@ -1,4 +1,4 @@
-#Treinamento em Raspagem de Dados para Jornalistas
+# Treinamento em Raspagem de Dados para Jornalistas
 ---------------------------------------------------
 **Autoria**: Professor Fernando Masanori Ashikaga
 
