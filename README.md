@@ -43,8 +43,6 @@ Guia para estudos em Matemática, Computação e Introdução Básica a Programa
 <li> Programação Python Para Jornalistas Professor Fernando Masanori - https://github.com/wsricardo/mcestudos/tree/master/treinamento-webScraping </li>
     
   </ol>
-  
-
 </section>
 
 ### Programação  - Linguagens
