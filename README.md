@@ -43,8 +43,26 @@ Guia para estudos em Matemática, Computação e Introdução Básica a Programa
 <li> Programação Python Para Jornalistas Professor Fernando Masanori - https://github.com/wsricardo/mcestudos/tree/master/treinamento-webScraping </li>
     
   </ol>
+  
 
 </section>
+
+## Programação  - Linguagens
+* Haskell
+	** Haskell https://tech.io/playgrounds/2048/try-haskell/lesson-1basics-numbers-strings-etc; Curso Haskell Para Iniciantes https://www.youtube.com/watch?v=L_GvP5XTJj4&list=PL8eBmR3QtPL3pDzQpwPYfWQ4NEPGu6j7z;
+
+* C/C++
+
+* Lisp
+
+* Java
+
+* Python
+
+## Criando Games
+
+Alguns tutoriais... (em breve)
+
 
 <section style="padding:2px, margin: 1px;">
 <br>
