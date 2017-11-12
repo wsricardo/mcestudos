@@ -77,6 +77,8 @@ Sistemas Operacionais - Univesp
 <a href="https://youtu.be/Rl6HhDvW984?list=PLxI8Can9yAHeK7GUEGxMsqoPRmJKwI9Jw"><img  alt="Engenharia da Computação- Sistemas Operacionais"  src="https://img.youtube.com/vi/Rl6HhDvW984/hqdefault.jpg" width="480" height="360" border="10"></a>
 <br>
 Desenvolvimento de Sistema Wiki OSDev http://wiki.osdev.org/Main_Page
+	
+OS Development Tutorial	https://github.com/cfenollosa/os-tutorial
 <br>
 </section>
 <br><br><br>
@@ -160,6 +162,9 @@ Markdown/Texts Editor
 		<li>Ebook Free Matemática e Computação Free Ebooks (copy left) http://wanartsci.blogspot.com.br/2011/08/ebook-online-free-math-and-computing.html</li>
 		<li> Gatech Ebooks (mathematics) http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html e http://people.math.gatech.edu/~cain/ </li>
 	</ol>
+	
+	* Project Euler -"Project Euler is a series of challenging mathematical/computer programming problems" http://projecteuler.net/;
+	* 
 <br><br>
 <b><i>Ciências e Linguas</i></b><br><br>
 
