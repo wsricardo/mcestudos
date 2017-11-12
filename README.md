@@ -163,8 +163,9 @@ Markdown/Texts Editor
 		<li> Gatech Ebooks (mathematics) http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html e http://people.math.gatech.edu/~cain/ </li>
 	</ol>
 	
-	* Project Euler -"Project Euler is a series of challenging mathematical/computer programming problems" http://projecteuler.net/;
-	* 
+* Project Euler -"Project Euler is a series of challenging mathematical/computer programming problems" http://projecteuler.net/;
+* 
+
 <br><br>
 <b><i>Ciências e Linguas</i></b><br><br>
 
