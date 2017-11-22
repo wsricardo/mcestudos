@@ -41,7 +41,7 @@ Guia para estudos em Matemática, Computação e Introdução Básica a Programa
 <li> Berkeley CS162 - OS Operating Systems and Systems Programming  https://cs162.eecs.berkeley.edu/ </li>
 <li> More Materials about / Mais materiais sobre PYTHON - https://github.com/wsricardo/mcestudos/blob/master/TutorialsPythonsNews.md </li>
 <li> Programação Python Para Jornalistas Professor Fernando Masanori - https://github.com/wsricardo/mcestudos/tree/master/treinamento-webScraping </li>
-<li> Python Tutoriais <a href="TutorialsPythonNews.md">+++</a>
+<li> Python Tutoriais <a href="TutorialsPythonsNews.md">+++</a>
     
   </ol>
 </section>
