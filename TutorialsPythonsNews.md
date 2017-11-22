@@ -16,3 +16,7 @@ Official Web Page www.python.org
 * Awesome Python - List of libraries, frameworks, softwares and resources for work with Python development. (EN) 
   - Page Home https://awesome-python.com/
   - Github https://github.com/vinta/awesome-python
+  
+* Python GUI's
+	- Python GTK (english) https://www.youtube.com/watch?v=MxYl3cnn4yw&index=2&list=PL7604BFACE2442F9A
+	- Python GTK (português) https://www.youtube.com/watch?v=pngPdfWwiME
