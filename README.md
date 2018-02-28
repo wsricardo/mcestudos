@@ -10,12 +10,15 @@ Guia para estudos em Matemática, Computação e Introdução Básica a Programa
 <p> Para matemática é possível achar livros como da SBM (ensino médio), Fundamentos da Matemática além de links de páginas como do IMPA (Instituto de Matemática Pura e Aplicada  e OBMEP (Olimpiada Brasileira de Matemática das Escolas Públicas).
 <br>
 
-  <ol>
-  <li> Latex/TEX (editoração cientifica) https://en.wikibooks.org/wiki/LaTeX </li>
-<li>Editor de texto Vim (livro sobre) https://woliveiras.com.br/vimparanoobs/index.html </li>
-	<li>PET-CoCE é um Programa de Educação Tutorial (PET) da Universidade Tecnológica Federal do Paraná (UTFPR), Câmpus Curitiba http://www.dainf.ct.utfpr.edu.br/petcoce/ </li>
-  <li> IMPA https://www.impa.br </li>
-  <li> Matemática Básica OBMEP http://matematica.obmep.org.br/ </li>
+ 
+* Latex/TEX (editoração cientifica) https://en.wikibooks.org/wiki/LaTeX 
+
+* Editor de texto Vim (livro sobre) https://woliveiras.com.br/vimparanoobs/index.html 
+
+* PET-CoCE é um Programa de Educação Tutorial (PET) da Universidade Tecnológica Federal do Paraná (UTFPR), Câmpus Curitiba http://www.dainf.ct.utfpr.edu.br/petcoce/ 
+
+* IMPA https://www.impa.br </li>
+* Matemática Básica OBMEP http://matematica.obmep.org.br/
   <li>www.wsricardo.github.io</>
   <li> Básico sobre Lógica de Programação e Python https://gaenos.wordpress.com/2014/11/15/basico-python/ </li>
   <li> Cursos Informática TI http://timtec.com.br/pt/ </li>
