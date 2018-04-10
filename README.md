@@ -164,7 +164,7 @@ Links
 <a href="#">  </a>
 </section>
 
-### 8. Artes, Humanas & CiÊncias
+### 8. Artes, Humanas & Ciências
 
 (Em breve conteúdos)
 
