@@ -2,6 +2,12 @@
 # Matemática & Computação e Tecnologias
 Guia para estudos em Matemática, Computação e Introdução Básica a Programação de Computadores com a Linguagem Python. E links relacionados a tecnologia e cultura GEEK/Hacker
 
+1. Introdução
+2. Programação - Linguagens
+3. Criando Games
+4. Matemática
+5. Computação e Sistemas
+
 ### 1. Introdução
 
 
@@ -103,6 +109,9 @@ Desenvolvimento de Sistema Wiki OSDev http://wiki.osdev.org/Main_Page
 	
 OS Development Tutorial	https://github.com/cfenollosa/os-tutorial
 <br>
+
+	* OS Dev (Iniciantes) Wiki - https://wiki.osdev.org/Meaty_Skeleton
+
 </section>
 <br><br><br>
 
