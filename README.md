@@ -11,9 +11,8 @@ Guia para estudos em Matemática, Computação e Introdução Básica a Programa
 ### 1. Introdução
 
 
-<p> Requisitos básicos iniciais gerais em nivél médio (colegial/HighSchool), principalmente em Matemática e Fisica. Dependendo das áreas/projetos outros conhecimento mais avançados podem ser requeridos. Por exemplo, estudo de Inteligência Artifical e Robotica requerem basicamente conhecimentos em matemática avançada como Algebra Linear, Cálculo, Combinatoria, Probabilidade, Estatistica (tanto IA como Robotica) além de Fisica, Mecanica, Eletronica dependendo.
-<p> Para matemática é possível achar livros como da SBM (ensino médio), Fundamentos da Matemática além de links de páginas como do IMPA (Instituto de Matemática Pura e Aplicada  e OBMEP (Olimpiada Brasileira de Matemática das Escolas Públicas).
-<br>
+Requisitos básicos iniciais gerais em nivél médio (colegial/HighSchool), principalmente em Matemática e Fisica. Dependendo das áreas/projetos outros conhecimento mais avançados podem ser requeridos. Por exemplo, estudo de Inteligência Artifical e Robotica requerem basicamente conhecimentos em matemática avançada como Algebra Linear, Cálculo, Combinatoria, Probabilidade, Estatistica (tanto IA como Robotica) além de Fisica, Mecanica, Eletronica dependendo.
+ Para matemática é possível achar livros como da SBM (ensino médio), Fundamentos da Matemática além de links de páginas como do IMPA (Instituto de Matemática Pura e Aplicada  e OBMEP (Olimpiada Brasileira de Matemática das Escolas Públicas).
 
  
 * Latex/TEX (editoração cientifica) https://en.wikibooks.org/wiki/LaTeX 
@@ -22,37 +21,64 @@ Guia para estudos em Matemática, Computação e Introdução Básica a Programa
 
 * PET-CoCE é um Programa de Educação Tutorial (PET) da Universidade Tecnológica Federal do Paraná (UTFPR), Câmpus Curitiba http://www.dainf.ct.utfpr.edu.br/petcoce/ 
 
-* IMPA https://www.impa.br </li>
+* IMPA https://www.impa.br 
+
 * Matemática Básica OBMEP http://matematica.obmep.org.br/
+
 * www.wsricardo.github.io
+
 * Básico sobre Lógica de Programação e Python https://gaenos.wordpress.com/2014/11/15/basico-python/
+
 * Cursos Informática TI http://timtec.com.br/pt/
-  <li> Python Para Zumbis (programação de computador nivel iniciante ao itermediario) https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc</li>
-<li> Criando Game com Python - https://www.youtube.com/watch?v=0YJq9_u4n5k&list=PLxNM4ef1BpxivJHPrgYFROqVACvDG-wRW (www.pygame.org) </li>
-<li> Python OO - Udacity https://www.udacity.com/wiki/classes</li>
-<li> Ignorância Zerp (Python) Curso https://www.youtube.com/channel/UCmjj41YfcaCpZIkU-oqVIIw </li>
-<li> Curso Python 3 (Cursos Em Videos) https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6</li>
-<li> Curso Python Flask (framework web) https://www.youtube.com/playlist?list=PL3BqW_m3m6a05ALSBW02qDXmfDKIip2KX</li>
-  <li> UnivespTV http://univesptv.com.br/ </li>
-  <li> Cursos Gratuitos - Gustavo Guanabara- Canal https://www.youtube.com/user/cursosemvideo</li>   
-<li> Khan Academy - Estudos Online - https://pt.khanacademy.org/computing/computer-programming </li>  
-<li> Data Structures & Algorithm Analysis by Clifford A. Shaffer http://people.cs.vt.edu/~shaffer/Book/ </li>
-<li> Programação em C http://www2.ic.uff.br/~hcgl/tutorial.html </li>
-  <li> Computação e Analise de Algoritmos https://www.ime.usp.br/~pf/ </li>
-  <li> Playground Python Tech.IO https://tech.io/playgrounds/500/advanced-python-features/content/advanced-python-features</li>
-  <li> Visualizar Execução de umcódigo, programa, passo à passo - http://www.pythontutor.com/ </li>
-  <li> What's New In Python 3 https://docs.python.org/3.0/whatsnew/3.0.html </li>
-<li> What's New In Python https://docs.python.org/3.0/whatsnew/index.html </li>
-<li> Garbage Collection In Python - https://docs.python.org/3.0/whatsnew/2.0.html#garbage-collection-of-cycles </li>
-<li> https://wsricardo.github.io</li>
-<li> Raspagem de Dados - Portais e Artigos https://github.com/wsricardo/mcestudos/blob/master/rasp-dados.md </li>   
-<li> Berkeley CS162 - OS Operating Systems and Systems Programming  https://cs162.eecs.berkeley.edu/ </li>
-<li> More Materials about / Mais materiais sobre PYTHON - https://github.com/wsricardo/mcestudos/blob/master/TutorialsPythonsNews.md </li>
-<li> Programação Python Para Jornalistas Professor Fernando Masanori - https://github.com/wsricardo/mcestudos/tree/master/treinamento-webScraping </li>
-<li> Python Tutoriais <a href="TutorialsPythonsNews.md">+++</a>
+
+* Python Para Zumbis (programação de computador nivel iniciante ao itermediario) https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc
+
+* Criando Game com Python - https://www.youtube.com/watch?v=0YJq9_u4n5k&list=PLxNM4ef1BpxivJHPrgYFROqVACvDG-wRW (www.pygame.org) 
+
+* (Python OO - Udacity)[https://www.udacity.com/wiki/classes]
+
+* Ignorância Zero (Python) Curso https://www.youtube.com/channel/UCmjj41YfcaCpZIkU-oqVIIw 
+
+* Curso Python 3 (Cursos Em Videos) https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6
+
+* Curso Python Flask (framework web) https://www.youtube.com/playlist?list=PL3BqW_m3m6a05ALSBW02qDXmfDKIip2KX
+
+* UnivespTV http://univesptv.com.br/ 
+
+* Cursos Gratuitos - Gustavo Guanabara- Canal https://www.youtube.com/user/cursosemvideo
+
+* Khan Academy - Estudos Online - https://pt.khanacademy.org/computing/computer-programming 
+
+* Data Structures & Algorithm Analysis by Clifford A. Shaffer http://people.cs.vt.edu/~shaffer/Book/ 
+
+* Programação em C http://www2.ic.uff.br/~hcgl/tutorial.html 
+
+* Computação e Analise de Algoritmos https://www.ime.usp.br/~pf/ 
+
+* Playground Python Tech.IO https://tech.io/playgrounds/500/advanced-python-features/content/advanced-python-features
+
+* Visualizar Execução de umcódigo, programa, passo à passo - http://www.pythontutor.com/ 
+
+* What's New In Python 3 https://docs.python.org/3.0/whatsnew/3.0.html 
+
+* What's New In Python https://docs.python.org/3.0/whatsnew/index.html 
+
+* Garbage Collection In Python - https://docs.python.org/3.0/whatsnew/2.0.html#garbage-collection-of-cycles 
+
+* https://wsricardo.github.io
+
+* Raspagem de Dados - Portais e Artigos https://github.com/wsricardo/mcestudos/blob/master/rasp-dados.md  
+
+* Berkeley CS162 - OS Operating Systems and Systems Programming  https://cs162.eecs.berkeley.edu/ 
+
+* More Materials about / Mais materiais sobre PYTHON - https://github.com/wsricardo/mcestudos/blob/master/TutorialsPythonsNews.md 
+
+* Programação Python Para Jornalistas Professor Fernando Masanori - https://github.com/wsricardo/mcestudos/tree/master/treinamento-webScraping
+
+* Python Tutoriais <a href="TutorialsPythonsNews.md">+++</a>
     
-  </ol>
-</section>
+  
+
 
 ### Programação  - Linguagens
 
