@@ -110,7 +110,7 @@ Desenvolvimento de Sistema Wiki OSDev http://wiki.osdev.org/Main_Page
 OS Development Tutorial	https://github.com/cfenollosa/os-tutorial
 <br>
 
-	* OS Dev (Iniciantes) Wiki - https://wiki.osdev.org/Meaty_Skeleton
+	-  OS Dev (Iniciantes) Wiki - https://wiki.osdev.org/Meaty_Skeleton
 
 </section>
 <br><br><br>
