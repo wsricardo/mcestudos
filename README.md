@@ -82,11 +82,15 @@ Requisitos básicos iniciais gerais em nivél médio (colegial/HighSchool), prin
 
 ### Programação  - Linguagens
 
+* Assembly
+-
+
 * Haskell
 	- https://tech.io/playgrounds/2048/try-haskell/lesson-1basics-numbers-strings-etc; 
 	- Curso Haskell Para Iniciantes https://www.youtube.com/watch?v=L_GvP5XTJj4&list=PL8eBmR3QtPL3pDzQpwPYfWQ4NEPGu6j7z;
 
 * C/C++
+- htps://www.youtube.com/playlist?list=PL0oekSefhQVJdk0hSRu6sZ2teWM740NtL
 
 * Lisp
 
