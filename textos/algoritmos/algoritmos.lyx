@@ -1,0 +1,394 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\begin_modules
+algorithm2e
+theorems-std
+\end_modules
+\maintain_unincluded_children false
+\language american
+\language_package default
+\inputencoding utf8
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Algoritmos
+\end_layout
+
+\begin_layout Author
+Wandeson Ricardo
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Anotações do livro Algoritmos de Cormmen.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Introdução
+\end_layout
+
+\begin_layout Subsection
+Algoritmos
+\end_layout
+
+\begin_layout Standard
+Informalmente algoritmo é qualquer procedimento computacional bem definido
+ que toma algum valor ou conjunto de valores como entrada e produz algum
+ valor ou conjunto de valores como saída.
+ Portanto um algoritmo é uma sequência de passos computacionais que transformam
+ a entrada em saída.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Conceitos Básicos
+\end_layout
+
+\begin_layout Subsubsection
+Ordenação por inserção
+\end_layout
+
+\begin_layout Standard
+Nosso primeiro algoritmo, o de ordenação por inserção
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{algorithm}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+nllabel{linesnumbered, commentsnumbered, inoutnumbered}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+LinesNumbered
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{algorithm}[H] 
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+ShowLnLabel{linesnumbered, commentsnumbered, inoutnumbered}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+KwData{A := [$a_1, a_2, ..., a_n$] }  
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+ShowLn
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+KwResult{List Sorted}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+ShowLn
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+For {$j 
+\backslash
+leftarrow 2$ 
+\backslash
+,
+\backslash
+, to 
+\backslash
+,
+\backslash
+, $comprimento 
+\backslash
+,
+\backslash
+, de 
+\backslash
+,
+\backslash
+,[A]$}{
+\end_layout
+
+\begin_layout Plain Layout
+
+		{$chave 
+\backslash
+leftarrow A[j]$}
+\backslash
+;
+\end_layout
+
+\begin_layout Plain Layout
+
+		{$Inserir 
+\backslash
+, A[j] 
+\backslash
+, 
+\backslash
+, na 
+\backslash
+, 
+\backslash
+, sequencia 
+\backslash
+,
+\backslash
+, ordenada[1..j-1]$}
+\backslash
+;
+\end_layout
+
+\begin_layout Plain Layout
+
+		{$i 
+\backslash
+leftarrow j - 1$}
+\backslash
+;
+\end_layout
+
+\begin_layout Plain Layout
+
+		
+\backslash
+While {$i>0$ and $A[j] > chave$}{
+\end_layout
+
+\begin_layout Plain Layout
+
+			{$i 
+\backslash
+leftarrow i - 1$}
+\backslash
+;
+\end_layout
+
+\begin_layout Plain Layout
+
+		}  
+\end_layout
+
+\begin_layout Plain Layout
+
+		{$A[i + 1] 
+\backslash
+leftarrow chave$}
+\backslash
+;
+\end_layout
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+caption{Insert-Sort} 
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{algorithm}
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{algorithm}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Crescimento de Funções e Analise
+\end_layout
+
+\begin_layout Subsection
+Recorrências
+\end_layout
+
+\begin_layout Subsection
+Analise probabilistica e algoritmos aleatórios
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Estrutura de Dados
+\end_layout
+
+\end_body
+\end_document
